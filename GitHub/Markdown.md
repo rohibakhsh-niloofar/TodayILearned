@@ -68,7 +68,7 @@ or
 
 ---
 
-# Summary & Detailes 
+# Summary & Detailes - Images 
 
 > [!IMPORTANT] 
 > This part can use only with HTML 

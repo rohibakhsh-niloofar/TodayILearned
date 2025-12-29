@@ -137,5 +137,9 @@ or
 
 ![Arduino](https://img.shields.io/badge/Arduino-Radar_Scanner-00979D?style=for-the-badge)
 
+![Research](https://img.shields.io/badge/type-research-purple)
+
+![Research](https://img.shields.io/badge/type-research-purple)
+
 ---
 

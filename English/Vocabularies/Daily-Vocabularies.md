@@ -2,7 +2,17 @@
 ---
 ## Books List:
 
-1. [Tactics For Listening-Basic](#tactics-for-listening-basic)
+1. [Basic Tactics For Listening (Third Edition)](#tactics-for-listening-basic)
+     - [Unit 1 - Introductions and Names](#unit-1-introductions-and-names)
+     - [Unit 2 - Describing people](#unit-2-describing-people)
+     - [Unit 3 - Clothes](#unit-3-clothes)
+     - [Unit 4 - Routines](#unit-4-routines)
+     - [Unit 5 - Dates](#unit-5-dates)
+     - [Unit 6 - Jobs](#unit-6-jobs)
+     - [Unit 7 - Favorites](#unit-7-favorites)
+     - [Unit 8 - Sports and Exercise](#unit-8-sports-and-exercise)
+
+
 2. [400 Must Have Words For The TOEFL](#400-must-have-words-for-the-toefl)
 3. [Wordup Application](#wordup-application)
 
@@ -119,7 +129,76 @@ Months :
 Hope to + verb
 ```
 
+#### Unit-7 (Favorites)
 
+||Words|Definitions and Example|
+|--|--|--|
+|1|Favorites|things or people that you like most|
+|2|Creative|good at using their imaginations to make things. also we can say inventions|
+|3|Incredible|extremely good, large, or great. unbelievable |
+|4|professionally|high standards|
+|5|Sort of|Kind of|
+|6|Sneak (v.)|A) to go somewhere secretly and quietly, avoiding being seen or heard. B) to hide sth, take sth to someone secretly|
+|7|Stuff|things|
+|8|Selection|option|
+|9|as expensive as|same price|
+|10|Stay in touch|to communicate |
+|11|Though|But|
+|12|Through|between, by, complete, completely |
+|13|Thought|past tense of think. idea, opinion|
+|14|Probably|maybe, perhaps|
+|15|Deal|A) an agreement or arrangement, specially in business or politics. B)a great/good deal of = a large amount of sth. C) used to say that you are agree with sth. D)a big deal = not as important as sb say or think |
+|16|Hardly ever|hardly, rarely, not very often, almost never|
+|17|Check out|A) to make sure that sth is true. B) to look at sth or sb because they are interesting or attractive. C) to borrow a book from library|
+|18|Checkout|to leave a hotel after paying the bill|
+|19|Find out|discover, realized|
+|20|Gossip|talk with other with a tray of vegetable|
+|21|Give away|contribute,|
+|22|In a row|consecutively, uninterruptedly,  |
+|23|Popular|famous, well-known|
+|24|Radio station|A)it uses for radio frequency. B) It's an organization that broadcast radio.|
+|25|Take break|to stop working or stop being active, and sit down or lie down. also we can say take a rest.|
+|26|Yor're kidding|you are joking|
+
+#### Unit-8 (Sports and Exercise)
+||Words|Definitions and examples|
+|--|--|--|
+|1|Windsurf|to sail across water|
+|2|Too tiring|make you too sleepy|
+|3|In a great shape|being fit|
+|4|Keep in shape|stay fit and healthy|
+|5|Jog (v.) |A) to run slowly and steady. B) to knock or push sth by mistake.|
+|6|Diving (n.)|A) the sport of swimming under water using special equipment. B) jumping into water with your head.|
+|7|Work out (ph.v) |A) to make your body fit and strong by exercising. B) Happen. C) get better or get solve. |
+|8|Workout (n.)|physical exercise, specially training for sport|
+|9|Let's see|hesitate to buy time for thinking about sth|
+|10|Why not?| why? (In a negative way)|
+|11|Rest of (sth) |remains of sth|
+|12|Can't stand|dislike or hate dth or sb|
+|13|Sweat (v.) |A) liquid from your skin. B) don't sweat it = to tell sb not to worry about sth.|
+|14|Couch|peace of furniture big enough for 2 or 3 to sit on it.|
+|15|Spend time|pass time in a particular place or for particular activities.|
+
+```
+used to;
+It means sth was true in the past but not true now.
+
+Structures :
++) Sub + used to + base form of verb
+-) Sub + didn't + use to + base form of verb
+```
+
+#### Unit-9 (Locations)
+
+||Words|Definitions and examples|
+|--|--|--|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 ---
 ### 400 Must Have Words For The TOEFL
 

@@ -261,8 +261,19 @@ Structures :
 |4.|Drum|n.|1) a musical instrument. **2)** part of the machine shape like cylinder. **3)** social gathering or party|
 |||v.|**1)** to make noise by hitting sth repeatedly. `stop drumming your pen !!!` **2)** to teach sth by repeated many time. `I drummed this grammar for million times for you` **3)** to kick sb out, often from job or positions. `He was drummed out of army`|
 |5.|Minute|n.|**1)** a period of time equal with sixty seconds. **2)** to summary or record sth for report or meeting. **3)** a unit of time in navigation and astronomy = one sixteenth degree. **4)** extremely small in size or amount. `there are minute particles of dust in the air`|
-|||||
-|||||
-|||||
-|||||
-|||||
+|6.|Cylinder|n.|**1)** a solid or hollow object with round ends. `The paper towel shaped like cylinder` **2)** a part of engine where fuel is burned. `This car has four-cylinder engine` **3)** a container for storing gas under the pressure. `He carried the gas cylinder to the kitchen.` **4)** a piece of lock where you insert a key. `I lost my key so i should change the cylinder.` |
+|7.|Collect|v.| **1)** to gather or accumulate sth. `I collect plant as a hobby.` **2)** to go to the place and bring sth. `I have to collect my friends from the airport tonight.` **3)** to ask and receive payments. `The charity collecting donation for poor people.` |
+|8.|Contribute|v.|**1)** to help or give sth like money, time, ... `They contributed for many charities last year.` **2)** to play significant part in make sth happen. `She contributed for 3 articles last season.` **3)** in journalism it means adding your creation or essay to somewhere. **`Donate = Just for money`**|
+|9.|Broad|n.|**1)** having the large side from side to side. `The road was so broad.` |
+|||adj.|**2)** including a lot of people or things. = **diversity** `we have many broad guests.` **3)** sth general without any details. `The professor explain this part very broad.` **4)** sth clear and easy to understand.|
+|||adv.|**Broadly** = in a general way|
+|10.|Combine|v.|**1)** to join or mix two or more things together. **2)** to have two or more features at the same time. `I combine beauty and intelligence in this project.`|
+|||n.|**3)** a machine that separates grains from the stalk. **4)** an organization or groups who have joined together. |
+|11.|Frame|n.|**1)** a solid structure around sth.|
+|||v.|**2)** to carefully plan or designed sth. `He needs to frame new method for his projects.` **3)** to set up sb appear guilty of crime that they didn't commit. `He was framed as a theft by his friend.` **4)** to express sth using specific words and phrase. `How would you frame your request in a polite way?`|
+|12.|Fancy|n.|**1)** feeling or like sth but not strongly. `I took a fancy to my classmate.`|
+|||v.|**2)** to like or want sth or to do sth. `Do you fancy a drink? = Do you want a drink?`|
+|||adj.|**3)** expensive or high quality. `she wore a fancy dress.` **4)** Imaginative or creative. `I have a fancy idea to solve this problem.`|
+|13.|Progress|n.|**1)** forward or onward movement to destination. `As we progress through the jungle, we hope to reach the village by night.` **2)** developments towards an improved or more advanced condition. `The progress of technology over the years has been astounding.` = **`change in time but development is by techniques.`**|
+|||v.|**3)** move toward in time or space. `As the week progressed, the weather got worse.`|
+|||phrase|**In progress** = being, happening or done at the moment. `Be patient, your bright days are in progress.`|

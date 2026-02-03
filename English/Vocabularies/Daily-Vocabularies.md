@@ -18,6 +18,9 @@
 
 
 2. [400 Must Have Words For The TOEFL](#400-must-have-words-for-the-toefl)
+   - Season 1 (Nature)
+      - [Unit 1 - Food Crops](#unit-1-food-crops)
+
 3. [Wordup Application](#wordup-application)
 
 
@@ -246,6 +249,21 @@ Structures :
 ||||
 ---
 ### 400 Must Have Words For The TOEFL
+
+#### Unit-1 (Food Crops)
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Crop|n.|**1)** plant such as wheat, rice or fruit that grown by farmers and used as a food. also we can say **produce**. `The main crops are oats and barley.`  **2)** the amount of wheat, rice or fruit that is produce in season.also we can say **harvest** or **gathering**. `This season is crop of melon.`|
+|||v.|**3)** to cut sb's hair short. **4)** to cut a part of photograph or picture in a particular size.|
+|2.|Abandon|v.|**1)** to leave sb, specially sb you are responsible for. `How could she abandon her child?` **2)** to go away from place, vehicle,... `We have to abandon the car and walk the rest of day.` **3)** to stop doing sth, due to problems & It's impossible to continue. `The game had to abandon due to the rainy weather.`|
+||Abandonment|n.|**4)** to leave, to give up|
+|3.|Adversely|adv.|**1)** in a harmful way, negatively **(Mostly followed by affect)** `Excessive rainfall early in spring can adversely affected the planting`|
+||Adversity|n.|**2)** situation that you have a lot of problem due to the bad luck. `She was always calm in the face of adversity.`|
+||Adverse|adj.|**3)** not good or favorable. `your fear could have an adverse affected on your health.` **4)** Conditions that make it difficult  for sth to happen or exist. **(Adverse Conditions)** `The play had to abandon due to adverse weather conditions`|
+|4.|Ample|adj.|**1)** more than enough, plenty, extensive. `You have ample time to answer the questions.`|
+|5.|Aggregate|n.|**also aggregation** **1)** The total after a lot of different figures or point added. `Elephant can be found in a large aggregate in the Africa.` , `The last election got an aggregate of 99 vote.` **2)** stand or small stones use in making concrete.|
+||Aggregative|adj|**3)** particular amount when added together. `The aggregate carnage was fake. Iran shared fake news.`|
+|||v.|**4)** to put different amount together to form a group or total. `Sara's earning aggregated around $1000`.  ***Aggregate is often followed by sth like Sum, Total, Numbers,...***|
 
 
 

@@ -304,8 +304,26 @@ Structures :
 |6.|Famine|n.|**1)** Sever hunger, a drastic food shortage. `Thee potato famine in Ireland caused a large immigration.` **2)** A very large number of people have little or no food for long time. `Million people faced famine in Africa.`|
 |7.|Flood|n.|**1)** a very large amount of water that covers an area. `It was the worst floods for over fifty years.` **2)** a very large number of things or people, excessive amount. ***`In this meaning mostly come with (of)`*** `They send out a flood of letter for president Trump.`|
 |||v.|**3)** Cover with water. `Towns and cities all over the country have been flooded.`|
-|||||
-|||||
+|8.|Impact|n.|**1)** Strong influence. `The speech about the importance of education made an impact on me.` ***`Mostly followed by (on) or (of)`***  / He always impact on us to be more motivated.|
+|9.|Persevere|v.|**1)** To keep going despite difficulties or discouragement to maintain a purpose. `He persevered with his task until he had succeed.` |
+|10.|Perseverance|n.|**2)** to keep trying or achieve sth in spite of difficulties. `It took perseverance to overcome his reading problems.`|
+||Persevering|adj.|**3**) `You have to be ready for persevering way this year.`|
+|11.|Plunge|v.|**1**) to go down suddenly. `He jumped of the diving board and plunge into the pool` **2)** Decrease by the large amount. `The employment rate plunged sharply.` ***`Mostly followed by (into)`***|
+|||n.|**3)** decide to do sth important or risky. `We took a plunge and set up our own business.` |
+|12.|Unleash|v.|**1)** to let a gog run free after it has been held on a leash. `They unleash their dogs after saw the strange man.` **2)** to release on emotional. `He will never learned to unleashed his feeling.`|
+|13.|Phenomenon|n.|**1)** sth that happens or exist in society, science, or nature. / **2)** sth or sb that is very unusual because of rare quality or ability that they have.|
+|14.|Capable|adj.|**1)** having the qualities or ability needed to do sth. / **2)** Able to do sth well.|
+|15.|Impulsive|adj.|**1)** act without thinking well. `It was an impulsive purchase. `|
+|16.|Disturbance|n.|**1)** a situation in which people behave violently in public. / **2)** sth that interrupts what you are doing.|
+|17.|Disturb|v.|**3)** interrupt, bother, to make sb feel worries or upset.|
+|18.|Landslide|n.|**1)** Rockfall, landslip, avalanche,|
+|19.|Meteorite|n.|**1)** a piece of rock or metal from space has landed to the earth.|
+|20.|Tremendous|adj.|**1)** huge, very big, fast and powerful. `The people of all around the world got tremendous shocked due to the Iran protests.`|
+|21.|Erosion|n.|**1)** the process by which rocks or soil is gradually destroyed by wind, rain or the sea.|
+|22.|Devastation|n.|**1)** destruction, destroy,|
+||Devastate|v.|**2)** to damage sth very badly. `The city center was devastate by bomb.`|
+
+
 
 
 

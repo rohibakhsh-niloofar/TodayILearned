@@ -22,6 +22,9 @@
       - [Unit 1 - Food Crops](#unit-1-food-crops)
       - [Unit 2 - Disaster](#unit-2-disaster)
       - [Unit 3 - Evolution and Migration](#unit-3-evolution-and-migration)
+      - [Unit 4 - Petroleum Alternatives](#unit-4-petroleum-alternatives)
+   
+   - Season 2 (Science)
 
 3. [Wordup Application](#wordup-application)
 
@@ -354,6 +357,40 @@ Structures :
 ||Survival|n.|**3)** The state of continuing to live or exist. `The doctors gave him a once of ten chance of survival.`|
 |13.|Monumental|adj.|**1)** Important, awesome, enormous|
 
+
+#### Unit-4 (Petroleum Alternatives)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Petroleum|n.|**1)** Oil that obtained below the surface of the earth and is used to make petrol. |
+|2.|Petrol|n.|**1)** `My car runs on unleaded petrol.`|
+|3.|Alternative|adj.|**1)** idea, plan, or etc is different from the one you have. / Another way, other, alternate|
+|||n.|**2)** sth that you can choose to do or use instead of sth else. `If this project doesn't work, we have to try our alternative way.`|
+|4.|Constrain|v.|**1)** To stop someone from doing what they want to do. **= Restrict**  /  **2)** To limit sth. `They contained the connection during the protest.`|
+||Constraint|n.|**3)** Sth that limit your freedom to do what you want. **= Restriction**  / Force,pressure. `the constraint of his family make him silent.`|
+|5.|Contaminate|v.|**1)** To make a place or substance dirty or harmful by putting sth such as chemical or poison in it.|
+||Contamination|n.|**2)** Pollution, `There is already a high level of environmental contamination.`|
+|6.|Deplete|v.|**1)** To reduce amount of sth. `It depleted their main source due to the war.`|
+||Depletion|n.|**2)** To greatly decrease resources or materials. |
+|7.|Dispose of |Ph.v|**1)** To get rid of sth. `She dispose of unwanted stuff before new year.` / **2)** To kill someone. / ***`It always comes with (of)`***|
+||Disposal|n.|**3)** throwing away, Discarding, removal. `The safe disposal of radioactive waste.`|
+||Disposable|adj.|**4)** intended to use once or for a short time and then thrown away. `They use disposable glass on their office.`|
+|8.|Elementally|adv.|**1)** In terms of elements, basically. `Elementally, coal and diamonds are the same.`|
+||Element|n.|**2)** One part or feature of whole system. `The primary element in the work is to be on time.` **3)** A simple chemical substance such as carbon, oxygen, ... / **4)** Earth/Air/Water/Fire - one of the four substances from which people used to believe that everything was made.|
+||Elemental|adj.|**5)** Simple, basic and important. `Love and Fear are the two of the most elemental humans emotions.`|
+|9.|Emit|v.|**1)** give off, To send out gas, heat, light, sound, or etc.|
+||Emission|n.|**2)** A gas or other substance that is sent into the air. /  ***`Usually followed by (of)`***|
+|10.|Extinct|adj.|**1)** dead, does not exist anymore. `Dinosaurs have been extinct for million of years.`  / **2)** An extinct volcano does not erupt anymore. |
+||Extinction|n.|**3)** When a particular type of animal or plant stops existing. `Species in danger of extinction.`|
+|11.|Reservoir|n.|**1)** A place where liquid collected and stored. `Their enemies put poison in the town's reservoir.` |
+||Reserve|v.|**2)** To adjust for the hotel,restaurant,... `I reserved a luxury table for valentine day.`   /   **3)** To keep part of sth for use at the latter time. **= Keep, Save**  /  `Reserv some food for me tonight.`|
+|12.|Shrink|v.|**1)** to become reduced in size, amount, or value. `If you dry your clothes on high heat setting, they may shrank.`|
+||Shrinkage|n.|**2)** The ack of shrinking, `Drinking herbal tea could shrinkage stress.`|
+||Shrinkable|adj.|**3)** I suggest to buy more, because this cloth is shrinkable.|
+|13.|Stable|adj.|**1)** Steady and not likely to move or change. **≠ Unstable**   / `He fell because the ladder wasn't stable.`|
+||Stability|n.|**2)** The condition of being steady and not changing. `We have to try for more financial stability.`| 
+||Stabilize|v.|**3)** To make sth firm or steady. `The patient's conditions has now stabilized.`|
+|14.|Consumption|n.|**1)** Using up, The amount of energy, oil, electricity etc that is used. **= consume**|
 
 
 ---

@@ -25,6 +25,8 @@
       - [Unit 4 - Petroleum Alternatives](#unit-4-petroleum-alternatives)
    
    - Season 2 (Science)
+      - [Unit 5 - Time Efficiency](#unit-5-time-efficiency)
+
 
 3. [Wordup Application](#wordup-application)
 
@@ -255,6 +257,8 @@ Structures :
 ---
 ### 400 Must Have Words For The TOEFL
 
+1)  Season one (Nature)
+
 #### Unit-1 (Food Crops)
 ||Words|P.S|Definitions|
 |--|--|--|--|
@@ -391,6 +395,48 @@ Structures :
 ||Stability|n.|**2)** The condition of being steady and not changing. `We have to try for more financial stability.`| 
 ||Stabilize|v.|**3)** To make sth firm or steady. `The patient's conditions has now stabilized.`|
 |14.|Consumption|n.|**1)** Using up, The amount of energy, oil, electricity etc that is used. **= consume**|
+
+
+2) Season two (Science)
+
+#### Unit-5 (Time Efficiency)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Efficiency|n.|**1)** The quality of do sth well and effectively, without wasting time, money, or energy. `The efficiency of train services.`|
+|2.|Adjust|v.|**1)** to gradually become familiar with new situation. **= Adapt** `It took a few second for her eyes to adjust to darkness.`  / **2)** to change or to accustomed sth. `They adjust their time every new year.`   /   ***`Usually followed by (to)`***|
+||Adjustment|n.|**3)** small changes for system, machine, or calculation. `A slight adjustment to the mechanism.` |
+||Adjustable|adj.|**4)** Able to change or move. `An adjustable girl :) `|
+|3.|Arbitrate|v.|**1)** Judge how the argument between someone should be settled. `A committee arbitrated between manager and employees.`|
+||Arbitrator|n.|**2)** Sb who judge the situation or arguments. **= Umpire** `He was a great arbitrator.`|
+||Arbitrary|adj.|**3)** Decide or choose sth without any reason and by whim or chance. `Their imigration was arbitrary. Just for fun.` / |
+||Arbitrarly|adv.|**4)** `Their donation to the charity was completely arbitrarly.`|
+|5.|Denominate|v.|**1)** to officially set a value to sth. `We denominate this function again.` |
+||Denomination|n.|**2)** special group with different attitude or mindset. `Your project denomination was odd.`|
+||Denominational|adj.|**≠ Non denominational**|
+||Denominator|n.|**3)** The numbers written below the line in a fraction.(1/2)  / 2 here is denominator.|
+||Lowest Common Denominator|Phrase|**1)** refer to the simplest or least sophisticated level of understanding. `The movie was made for lowest common denominator.`|
+|6.|Exponent|n.|**1)** A sign written above and to the right of number to show how many times they multiplied.|
+||Exponential|adj.|**2)** increase, becomes faster as the amount of things. `An exponential increase in travel.`|
+||Exponentially|adv.|**3)** At the very fast rate. `Dollar price in Iran increase exponentially in few last month.`|
+|7.|Infinitesimal|adj.|**1)** Extremely small, **= Minuscule**|
+||Infinitesimally|adv.||
+|8.|Maximize|v|**1)** to increase or make as great as possible. / to increase sth. `She maximize her patience for that situation.`|
+||Maximum|n.|**2)** top or heigh, summit. `The car has a maximum speed of 120km.`|
+|||adj.|**3)** `They run with their maximum speed.`|
+|9.|Parallel|adj.|**1)** being an equal distance apart everywhere. / ***`Mostly followed by (to)`***.  / **2)** Similar and happening at the same time. ***`Usually followed by (to)`***|
+|||n.|**3)** A relationship or similarity between two things. `They have a parallel to the main issue.`|
+|10.|Proportion|n.|**1)** Apart in relation to the whole. `They contributed for a proportion of charity this year.` **2)** Relationship between two things in size, amount, etc. / ***`Mostly followed by (of)`***|
+||Proportionate|adj.||
+|11.|Rate|n.|**1)** The cost per unit of a good service. `Postal rates in japan are among the highest in the world.` / **2)** The motion or change that happen in the certain time. `Some grasses grow at the rate of one inch per day.`|
+|||v.|**3)** To deserve sth. `They rate a big thank-you for all their hard work.`|
+||Rating|n.|**4)** a level on a scale that shows how good, important, popular etc someone or something is. `The Godfather' had an X-rating when it was first shown.`|
+|12.|Sequence|v.|**1)** to organized or arrange in succession(Series). `The question should asked in a logical sequence. `|
+||Sequentially|adv.|**2)** `They asked me about you sequentially`|
+|13.|Consequence|n.|**1)** Result of sth. `Many people believe that poverty is a consequence of overpopulation.`|
+|14.|Intersecting|n.|**1)**  **≠ Sequence**|
+|15.|Obsess|v.|**1)** you think or worry about sth all the time and you cannot think about anything else. `These days, I obsessed by my future. `   / ***`Mostly followed by (with) or (by).`***|
+|16.|Execute|v.|**1)** to kill someone, especially legally as a punishment. `Thousands of people have been executed for last protest. ` / **2)** to do sth that you carefully planned. **= implement** `Computers executes several different task at the same time.` |
 
 
 ---

@@ -30,6 +30,7 @@
       - [Unit 5 - Time Efficiency](#unit-5-time-efficiency)
       - [Unit 6 - Ancient Life](#unit-6-ancient-life)
       - [Unit 7 - Computers](#unit-7-computers)
+      - [Unit 8 - Energy](#unit-8-energy)
 
 
 
@@ -652,6 +653,29 @@ Structures :
 |16.|Vigilance|n.|**1)** Watchfulness, alertness, being aware.|
 |17.|Swamp|v.|**1)** Suddenly give someone a lot of tasks to do. |
 |||n.|**2)** Where a lotus flower grow up in. |
+
+
+#### Unit-8 (Energy)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Combust|v.|**1)** To burn or caused to burned. **2)** Chemical react through process the burn. **3)** to burst into anger. `He combust with anger.`|
+||Combustion|n.|**4)** The process of burning sth. `Chemical process, React with oxygen`|
+||Combustible|adj.|**5)** Material that can easily catch fire. ***`Followed by (of)`***|
+|2.|Component|n.|**1)** a part of sth bigger = individual. `The factory produce electrical component for car.` / **2)** related to Atom or ... ***`Mostly followed by (of)`***|
+|3.|Convey|v.|**1)** To transport or carry to a place. `The pipe convey the water into the field.` / **2)** to make sb emotion known or understandable by sb. `Her eyes conveyed sadness to me.`|
+||Conveyance|n.|**3)** transportation such as car, boat, train,... / **4)** The legal process of transferring property. `The conveyance of property took several months to complete.`|
+||Conveyor|n.|**5)** a convey belt, a person or sth that carrying sth.|
+|4.|Discrete|adj|**1)** Separate and different from sth else. `The human body made up of many discrete organ.`  / **2)** Quiet and not attract attention. `He made a discrete entrance.`|
+||Discretely|adv.|**3)** Separately & distinctly. `They implement several course discretely.`|
+|5.|Nucleus|n.|**1)** The center part od atom where proton or norton are located.`In atom electrons move around nucleus.` / **2)** the main part of cell that control activities. ***`Mostly followed by (of)`*** / **3)** the important part of sth. `He is the nucleus of our team.`|
+||Nuclear|adj.|**4)** relating to the energy produce in a nuclear reaction. `She's studying nuclear physics.`|
+|6.|Permeate|v.|**1)** to fill completely or separate. `The smeal of cookie permeated the house.` / **2)** Move through sth.|
+||Permeation|adj.|**3)** affect every part of sth.|
+||Permeable|adj.|**4)** allow pass through it. `Permeable rock layer affect groundwater flow.` **≠ Impermeable** = not easy to permeate. / **5)** Able to influence, entered or affected. `His mind is permeable to new idea.` / ***`Often followed by (to)`***|
+|||||
+|||||
+
 
 ---
 ### Wordup Application

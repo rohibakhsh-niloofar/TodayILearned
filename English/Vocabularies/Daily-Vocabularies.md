@@ -670,11 +670,20 @@ Structures :
 ||Discretely|adv.|**3)** Separately & distinctly. `They implement several course discretely.`|
 |5.|Nucleus|n.|**1)** The center part od atom where proton or norton are located.`In atom electrons move around nucleus.` / **2)** the main part of cell that control activities. ***`Mostly followed by (of)`*** / **3)** the important part of sth. `He is the nucleus of our team.`|
 ||Nuclear|adj.|**4)** relating to the energy produce in a nuclear reaction. `She's studying nuclear physics.`|
-|6.|Permeate|v.|**1)** to fill completely or separate. `The smeal of cookie permeated the house.` / **2)** Move through sth.|
+|6.|Permeate|v.|**1)** to fill completely or separate. `The smell of cookie permeated the house.` / **2)** Move through sth.|
 ||Permeation|adj.|**3)** affect every part of sth.|
 ||Permeable|adj.|**4)** allow pass through it. `Permeable rock layer affect groundwater flow.` **≠ Impermeable** = not easy to permeate. / **5)** Able to influence, entered or affected. `His mind is permeable to new idea.` / ***`Often followed by (to)`***|
-|||||
-|||||
+|7.|Rotate|v.|**1)** to turn around sth, `The earth rotate around the sun.`|
+||Rotation|n.|**2)** spin, turn with circulate movement. `The plants rotation around the sun.`|
+||Rotor|n.|**3)** The rotating part of machine or device.|
+|8.|Solar|adj.|**1)** related to the sun, / **2)** Operating energy by sun. `Our ancients keep time with solar calender.`|
+|9.|Source|v.|**1)** Origin|
+||Source|n.|**2)** Origin or creation. `This river is the source of water in the town.` / **3)** Original code.|
+||At Source|Ph.|**4)** as soon as possible or without delay.|
+|10.|Trigger|n.|**1)** Part of gun that you pull it to make fire. / **2)** A thing or event that caused an action to start. `That speech caused a fight trigger.`|
+|||v.|**3)** to caused sth to start. `After the last slaughter, people trigger  a huge protest in Canada.`|
+|11.|Shaft|n.|**1)** The long and thin part of sth. / **2)** The long hole or tunnel in ground. `The miners were trapped in the shaft.`|
+|12.|Fission|n.|**1)** When large atom nucleus split into the smaller part.|
 
 
 ---

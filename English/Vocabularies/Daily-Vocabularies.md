@@ -15,7 +15,9 @@
      - [Unit 10 - The Family](#unit-10-the-family)
      - [Unit 11 - Entertainment](#unit-11-entertainment)
      - [Unit 12 - Price](#unit-12-price)
-     * [Unit 13 - Restaurants](#unit-13-restaurant)
+     - [Unit 13 - Restaurants](#unit-13-restaurant)
+     - [Unit 14 - Small Talk](#unit-14-small-talk)
+     - [Unit 15 - Vacation](#unit-15-vacation)
 
 
 
@@ -379,6 +381,50 @@ Structures :
 |38.|Tasty|delicious, yummy |
 |39.|Send (food) back|return your food due to some reason.|
 |40.|Steamed|to cooked by steam. (Steam = The hot mist that water produced when it's boiled.)|
+
+
+#### Unit-14 (Small Talk)
+
+||Words|Definitions|
+|--|--|--|
+|1.|Greet|Say hi, Hello, how are you and ...|
+|2.|Haven't see you in ages|haven't see you in such a long time.|
+|3.|It's been a ages|It's been long time|
+|4.|Hope to see you again|Hope to see you soon|
+|5.|Nice to see you again|Glade to see you again|
+|6.|Friendly|Warm blood, kind and nice|
+|7.|I think I will now|I think I do it now|
+|8.|Nearly|almost|
+|9.|You kidding|Are you joking?|
+|10.|Decide to|come to decision|
+|11.|I'm glad|I'm happy|
+|12.|Look forward|Waiting for sth|
+|13.|Canary|yellow small bird|
+|14.|Case of flu|Kind of illness|
+|15.|get over (sth)|get free|
+|16.|Appear in (sth)|Come into view|
+|17.|Exhibition|Display or show|
+|18.|Find (sth) + adj(interesting)|You like sth or dislike sth|
+|19.|Letting me know|Notice me!|
+|20.|Not much really|noting important|
+|21.|Doing well|They are good! |
+|22.|Trip|Visit somewhere for pleasure or particular purpose. / Also we can say **Journey**|
+|23.|Keep in touch|to communicate with sb|
+|24.|Work late|work up to midnight|
+
+
+#### Unit-15 (Vacation)
+||Words|Definitions|
+|--|--|--|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+
 ---
 ### 400 Must Have Words For The TOEFL
 

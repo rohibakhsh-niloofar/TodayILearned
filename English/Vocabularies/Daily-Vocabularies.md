@@ -18,6 +18,7 @@
      - [Unit 13 - Restaurants](#unit-13-restaurant)
      - [Unit 14 - Small Talk](#unit-14-small-talk)
      - [Unit 15 - Vacation](#unit-15-vacation)
+     - [Unit 16 - Apartment Living](#unit-16-apartment-living)
 
 
 
@@ -440,6 +441,47 @@ Structures :
 |22.|Relatives|Member of your family. uncle,aunt,cousins,...|
 |23.|Peaceful|quiet and calm without any worry or excitement.|
 
+
+#### Unit-16 (Apartment Living)
+
+||Words|Definitions|
+|--|--|--|
+|1.|Mattress|soft part of your bed.|
+|2.|Comfortable|easy to use|
+|3.|huge|Very big|
+|4.|Right next to me|Exactly beside me !|
+|5.|Need to|(Semi-modal Verb) use to show necessity.|
+|6.|Floor|ground|
+|7.|I probably will|Maybe I do it in future|
+|8.|Take a bath|take shower in bathtub|
+|9.|... is just fine|it's ok|
+|10.|Right size|fit match|
+|11.|Manage|control sth|
+|12.|Pick up|Buy sth, grab sth|
+|13.|Used (n.)|sth that is not new , Secondhand|
+|14.|Cost|Price of sth|
+|15.|Sales clerk|sb who guide you to buy sth when you are at store.|
+|16.|It sounds big|pretty big|
+|17.|Dresser|Closet / Where you keep your clothes.|
+
+```diff
+Can or Be able to ?
++ We use (Be able to) when it's impossible to use (can) in your sentences. 
+ * 2 or more auxiliary verb in row.
+  🚫... would can ...🚫 /  ✅ ...Would be able to ... ✅
+
+ * Make sentence in past tense. 
+  1. Simple past
+  2. Simple past continuous
+  3. Past perfect
+  4. Past perfect continuous
+  🚫I can't swam.🚫 / ✅ I wasn't able to swim. ✅
+
++ Use (Be able to) when you want to speak or write more formal.
+
+   * You should be able to work with team.
+
+```
 
 ---
 ### 400 Must Have Words For The TOEFL

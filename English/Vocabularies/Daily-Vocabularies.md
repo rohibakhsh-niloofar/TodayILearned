@@ -416,13 +416,29 @@ Structures :
 #### Unit-15 (Vacation)
 ||Words|Definitions|
 |--|--|--|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|1.|So-So|50/50|
+|2.|Sunshine|sunlight|
+|3.|get a tan|your skin become darker by sunlight(The action)|
+|4.|Disappointing|Depressing|
+|5.|Out of town||
+|6.|Terrible|awful, pretty bad|
+|7.|Country|Lands outside of towns or cities|
+|8.|All right|Good / not bad|
+|9.|Spent |pay put|
+|10.|Noting special|Noting important|
+|11.|Crowded|full of people|
+|12.|Now you tell me !|it's too late to mention|
+|13.|Windsurf|kind od water activities |
+|14.|You're lucky|Full of chance.|
+|15.|In the beginning|at first|
+|16.|Fall of |fall over, unstable|
+|17.|kept warm|p.p = keep warm|
+|18.|Sightseeing|visit famous and well-known place|
+|19.|Sunburn|sunkiss :) |
+|20.|Souvenir|memorable gift related to somewhere.|
+|21.|Memorable|Unforgettable|
+|22.|Relatives|Member of your family. uncle,aunt,cousins,...|
+|23.|Peaceful|quiet and calm without any worry or excitement.|
 
 
 ---

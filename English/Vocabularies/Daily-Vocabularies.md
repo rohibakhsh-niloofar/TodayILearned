@@ -557,8 +557,73 @@ Can or Be able to ?
 
 #### Unit-19 (Shopping)
 
+||Words|Definitions|
+|--|--|--|
+|1.|Too big|very big|
+|2.|Expensive|Costing high|
+|3.|Nice on you|Match with you|
+|4.|check back|return and check|
+|5.|Mystery|Not clear, full of secret|
+|6.|I'll take it|I will buy it|
+|7.|Fresh|Recent cultivate|
+|8.|Delicious|Tasty or yummy|
+|9.|Great color on you|Match with you|
+|10.|Half|1/2|
+|11.|Deal|agreement|
+|12.|Too expensive for me|I don't have enough money to pay|
+|13.|Just looking around|Window shop|
+|14.|Cotton|made by cotton plant|
+|15.|In a large|Larger size|
+|16.|I'm afraid |Unfortunately, Regretful |
+|17.|Ring up|Calculate the total price of what you but by sales clerk|
+|18.|Be machine washed|able to washed by washing machine|
+|19.|Silk|A thin smooth soft cloth|
+|20.|Air mail|Send or post by airplane|
+|21.|Narrow|≠ wide|
+|22.|Strips|Line of color|
+|23.|Pocket|small bag in your clothes|
+|24.|Fabric|cloth, kind of material|
+|25.|Linin|Cloth made from flax plant|
+|26.|blend|Mix, Combine|
+|27.|Hand wash|to wash sth by hand|
+|28.|On sale|Sth for sale with discount|
+
 
 #### Unit-20 (Describing Things)
+
+||Words|Definitions|
+|--|--|--|
+|1.|Brief case|flat case used for business people|
+|2.|strap|narrow band used for fasten sth|
+|3.|Checked design|Different color square regular pattern|
+|4.|Initial|Special sign|
+|5.|Turn in|deliver, to get back|
+|6.|Calling about (sth)|reason for call someone|
+|7.|Leather|made of cow's skin|
+|8.|Instead of|Replacement|
+|9.|Stupid|silly|
+|10.|Business paper|Documents|
+|11.|Crowded|full of people|
+|12.|Board|To get in|
+|13.|Aircraft|airplane|
+|14.|Compartment|Section or special part of somewhere|
+|15.|Fall out|ti hit ground|
+|16.|get off|Put away|
+|17.|get back|to return sth|
+|18.|Purse|kind od woman cross bag|
+|19.|Front door|main door|
+|20.|Bill|Purchase receipt|
+|21.|Internationally|All around the world|
+|22.|I wonder|I think|
+|23.|Straight|direct|
+|24.|Newsstand|Where you can but newspaper|
+|25.|Beach bag|Waterproof bad used for going to the beach|
+|26.|Pocket knife|small knife that you can put it in your bag or pocket|
+|27.|Novel|long story|
+|28.|Cheap-looking|everyone can guess that it's cheap.|
+|29.|Lost and found|where you can find what you lost or turn in what you found.|
+|30.|Turn in|to give sth to sb|
+
 
 
 #### Unit-21 (Directions)

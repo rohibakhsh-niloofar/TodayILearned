@@ -19,6 +19,14 @@
      - [Unit 14 - Small Talk](#unit-14-small-talk)
      - [Unit 15 - Vacation](#unit-15-vacation)
      - [Unit 16 - Apartment Living](#unit-16-apartment-living)
+     - [Unit 17 - Hopes and Planes](#unit-17-hopes-and-plans)
+     - [Unit 18 - The Weather](#unit-18-the-weather)
+     - [Unit 19 - Shopping](#unit-19-shopping)
+     - [Unit 20 - Describing Things](#unit-20-describing-things)
+     - [Unit 21 - Directions](#unit-21-directions)
+     - [Unit 22 - People We Know](#unit-22-people-we-know)
+     - [Unit 23 - Places](#unit-23-places)
+     - [Unit 24 - Health](#unit-24-health)
 
 
 
@@ -482,6 +490,91 @@ Can or Be able to ?
    * You should be able to work with team.
 
 ```
+
+#### Unit-17 (Hopes and Plans)
+
+||Words|Definitions|
+|--|--|--|
+|1.|Famous|Well-Known, Known by many people|
+|2.|It doesn't really matter|It's not really important|
+|3.|Professional|Expert|
+|4.|Make money|Earn money by working|
+|5.|Looking forward to|anticipate,waiting for sth|
+|6.|Better you than me||
+|7.|Difficult|Hard|
+|8.|Dangerous|Full of risk or damage|
+|9.|I guess so|I think so|
+|10.|Graduate|Complete an academic way.|
+|11.|At the moment|right now, in present time.|
+|12.|Unfortunately|Adversely|
+|13.|Part-time job|≠ Full-time|
+|14.|Spend time|Pass your time|
+|15.|As usual|like always|
+|16.|Nervous|Anxiety|
+|17.|Improve|level-up|
+|18.|Hang around|To wait and do noting|
+|19.|Take it easy|rest and relax|
+|20.|babysitting|to take care of babies or children|
+|21.|Fair|Proper(?) |
+|22.|You're kidding|You are joking.|
+|23.|Degree|Certificate|
+|24.|Dream about|Wish for|
+|25.|Acting job|The job that you do right now|
+|26.|Broke up|break up or cut|
+|27.|Things change fast !||
+|28.|Neither can I|me too (in negative way)|
+|29.|Just about anything|No matter what, anything|
+|30.|Come with me|join me|
+|31.|Hang out|Spend particular time with particular people in particular place. |
+
+#### Unit-18 (The Weather)
+||Words|Definitions|
+|--|--|--|
+|1.|Humid|Air is hot and wet|
+|2.|Wet|Rainy|
+|3.|Weather forecast|Anticipate weather|
+|4.|The low (Temperature)|Minimum Temperature|
+|5.|The Hight (Temperature)|Maximum Temperature|
+|6.|Centigrade|Unit of measurement for temperature|
+|7.|Expecting|Looking forward to , anticipate|
+|8.|Heavy rain/snow| huge rain/snow|
+|9.|Put (sth) on |Wear sth|
+|10.|Downtown|city center|
+|11.|Not really|Use for decline sth|
+|12.|It sure is|use for accept sth|
+|13.|At least|Minimum|
+|14.|Snowball fight|hit each other with snowball ☃️|
+|15.|No way ! |it's not possible. (In surprising way) |
+|16.|Come on ! ||
+|17.|Going down|decrease, recede|
+|18.|Storm|rain or snow with strong wind and often lightening|
+|19.|Getting warmer|get warmer step by step|
+|20.|Earlier|sooner, no later|
+|21.|Coming out|get out , shows clear|
+|22.|Glad |happy|
+|23.|Snowstorm|storm with strong wind and lot of snow. / ***In British =*** Snow globe|
+|24.|Air conditioner|Machine that makes the air in a room or building cooler or drier|
+
+#### Unit-19 (Shopping)
+
+
+#### Unit-20 (Describing Things)
+
+
+#### Unit-21 (Directions)
+
+
+
+#### Unit-22 (People We Know)
+
+
+#### Unit-23 (Places)
+
+
+#### Unit-24 (Health)
+
+
+
 
 ---
 ### 400 Must Have Words For The TOEFL

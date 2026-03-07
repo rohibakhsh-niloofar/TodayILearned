@@ -625,10 +625,34 @@ Can or Be able to ?
 |30.|Turn in|to give sth to sb|
 
 
-
 #### Unit-21 (Directions)
 
 
+||Word|Definitions|
+|--|--|--|
+|1.|Straight up|direct, upright|
+|2.|Intersection|A place where roads or lines cross each other, especially where two roads meet|
+|3.|Go straight for|in a direct way|
+|4.|Turn left/right|↩️↪️|
+|5.|On the left / right|⬅️➡️|
+|6.|Take a right / left|turn left / right|
+|7.|Corner|the point where two roads meet|
+|8.|Looking for|searching for|
+|9.|Walk up| ≠ walk down|
+|10.|Left down| ≠ left up|
+|11.|Not far from here|It's near or close from here|
+|12.|End of the block||
+|13.|On the corner of(..) and(..)||
+|14.|Tall glass building|High building made up by glass|
+|15.|Grocery store|where you can buy fresh vegetable or fruits|
+|16.|Fairy|More than a little = quite|
+|17.|Get off here|Delete me here 😂|
+|18.|Pick up|to buy or to get sth|
+|19.|Footbridge|a narrow bridge used by people who walk|
+|20.|go with (dinner)|eat or drink with something |
+|21.|Gas station|where you can fill your car|
+|22.|Church|where you pray for what you believe. (Deify)|
+|23.|Halfway|midway, in the middle of way|
 
 #### Unit-22 (People We Know)
 

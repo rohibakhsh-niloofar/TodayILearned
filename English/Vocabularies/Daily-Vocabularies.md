@@ -28,6 +28,14 @@
      - [Unit 23 - Places](#unit-23-places)
      - [Unit 24 - Health](#unit-24-health)
 
+       - [Tactics for testing unit 1 - 4](#tactics-for-testing-unit-1---4)
+       - [Tactics for testing unit 5 - 8](#tactics-for-testing-unit-5---8)
+       - [Tactics for testing unit 9 - 12](#tactics-for-listening-unit-9---12)
+       - [Tactics for testing unit 13 - 16](#tactics-for-listening-unit-13---16)
+       - [Tactics for testing unit 17 - 20](#tactics-for-listening-unit-17---20)
+       - [Tactics for testing unit 21 - 24](#tactics-for-listening-unit-21---24)
+
+
 
 
 2. [400 Must Have Words For The TOEFL](#400-must-have-words-for-the-toefl)
@@ -109,6 +117,8 @@
 - I am sleep 
 + I am asleep
 ```
+
+
 
 #### Unit-5 (Dates)
 ||Words|Definitions and Examples|
@@ -218,6 +228,8 @@ Structures :
 +) Sub + used to + base form of verb
 -) Sub + didn't + use to + base form of verb
 ```
+
+
 
 #### Unit-9 (Locations)
 
@@ -656,12 +668,127 @@ Can or Be able to ?
 
 #### Unit-22 (People We Know)
 
+||Words|Definitions|
+|--|--|--|
+|1.|Talkative|chatty|
+|2.|smart|genius |
+|3.|Sociable|Friendly and enjoy being with people|
+|4.|Neat|Tidy and carefully arranged.|
+|5.|You must be kidding|Are you kidding me|
+|6.|Life story|Whole life |
+|7.|Doing crazy things|Horseplay|
+|8.|Easy to talk to|Understandable person|
+|9.|Expect (sth) in return| do sth with any anticipate|
+|10.|Easygoing|Not strict |
+|11.|I wonder|I think|
+|12.|Seem|appear, assume|
+|13.|Sit at home|Stay at home|
+|14.|Perfect for (sb)|Match together|
+|15.|That's for sure|to show agreement|
+|16.|Not as easy to get to know|It's not easy to understand someone|
+|17.|Kind of| Sort of|
+|18.|Just like (sth / sb)|same as sth or sb|
+|19.|Skipped class|Ignore and do not join into your class|
+|20.|Sense of humor|The ability to laugh and enjoy things.|
+|21.|Really cool|funny|
+|22.|A lot in common|Have same character|
+|23.|In a bad mood|Not in a good mood|
+|24.|Get along|Friendly relationship|
+|25.|Chew gum|to bite gum|
+|26.|Outgoing|sociable, love to go out|
+|27.|Good looking|handsome or pretty|
+|28.|Out on a date|go out for dating|
+|29.|As long as|because|
+|30.|I don't mind|I don't care|
+|31.|Right next to me|Exactly next to me|
+|32.|Already|before now|
 
 #### Unit-23 (Places)
 
+||Words|Definitions|
+|--|--|--|
+|1.|Attend|be present|
+|2.|Cable cars|A vehicle similar to train|
+|3.|Harbor|an area of water next to the land|
+|4.|Trouble|problem|
+|5.|Polluted|Impure, dirty|
+|6.|It's not as nice as it used to be|it was nice in the past but now, No!!!|
+|7.|Climate|Weather , temperature|
+|8.|Pollution|Dangerous or dirty|
+|9.|Transportation|different kind of machine or vehicle such as car, train, airplane , aircraft|
+|10.|Glad|happy|
+|11.|Fresh (air)|clean|
+|12.|Rent|pay money regularly for sth you need|
+|13.|Reasonable|logical, practical|
+|14.|In general|totally|
+|15.|Busy|Not free|
+|16.|One thing I do like is ...|What I like is ...|
+|17.|Awfully crowded|Huge population|
+|18.|To tell you the truth|to be honest with you !|
+|19.|Pay a fortune for (sth)|a very large amount of money|
+|20.|In fact|in reality|
+|21.|Scenic|beautiful|
+|22.|Hometown|Where you were born|
+|23.|Nightclub|you go to dance and drink up|
+|24.|Disco|More active than clubs|
+|25.|Nightlife|entertainment you can do at nights or in the evenings|
+|26.|Government|Administration, A group of people who govern a country or state|
+|27.|Huge|pretty big|
+|28.|Probably|maybe|
+|29.|Comfortable|Convenient,|
+|30.|For sure|definitely |
+|31.|Theater|a building or place with stage for show|
+|32.|I know what you mean|I can understand you|
 
 #### Unit-24 (Health)
 
+||Words|Definitions|
+|--|--|--|
+|1.|Glasses on|wear glass|
+|2.|Splitting headache|very bad headache|
+|3.|Fell down|fall down, hit the ground by accident|
+|4.|Rollerblading|skating|
+|5.|Wrist|between tour hand and your arm|
+|6.|Lie down|to put yourself in a position in which your body is flat on the floor or on a bed.|
+|7.|Lifting heavy weight|Kind of exercising|
+|8.|Slipped|past participate of slip, to fall |
+|9.|Twisted|turned many time|
+|10.|Steep path|a road, hill that is steep slopes at a high angle.|
+|11.|Hardly|almost never|
+|12.|Flow back|fly back = return from somewhere by plane.|
+|13.|Hurting|harm or damaged|
+|14.|Stitch| sew the edge of a wound together.|
+|15.|Stress out|worries about sth|
+|16.|sleeping pills|sth like Melatonin|
+|17.|Not be anything serious|it's not enough important|
+|18.|Taking vitamins|eating or using vitamins.|
+|19.|That's probably causing it|that's because of that|
+|20.|Sat|past form of sit|
+|21.|Once a month|onetime every month , per month , monthly|
+|22.|Recommend|suggest , offer|
+|23.|Tripped|to fall and hit the ground|
+|24.|Sprain|twist|
+|25.|The rest of (season)|until the end of season|
+|26.|Hiking|walk through the nature.|
+
+
+
+#### Tactics for testing unit 1 - 4
+
+
+#### Tactics for testing unit 5 - 8
+
+
+#### Tactics for listening unit 9 - 12
+
+
+#### Tactics for listening unit 13 - 16
+
+
+#### Tactics for listening unit 17 - 20
+
+
+#### Tactics for listening unit 21 - 24
 
 
 

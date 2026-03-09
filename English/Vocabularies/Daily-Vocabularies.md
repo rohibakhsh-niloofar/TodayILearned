@@ -51,6 +51,10 @@
       - [Unit 7 - Computers](#unit-7-computers)
       - [Unit 8 - Energy](#unit-8-energy)
 
+   - Season 3 (Mind and Body)
+      - [Unit 9 - Memory](#unit-9-memory)
+      - [Unit 10 - Spirituality](#unit-10-spirituality)
+      - [Unit 11 - Illness](#unit-11-illness)
 
 
 3. [Wordup Application](#wordup-application)
@@ -1201,6 +1205,10 @@ Can or Be able to ?
 |11.|Shaft|n.|**1)** The long and thin part of sth. / **2)** The long hole or tunnel in ground. `The miners were trapped in the shaft.`|
 |12.|Fission|n.|**1)** When large atom nucleus split into the smaller part.|
 
+
+3) Season 3 (Mind and Body)
+
+
 #### Unit-9 (Memory)
 ||Words|P.S|Definitions and examples|
 |--|--|--|--|
@@ -1236,6 +1244,46 @@ Can or Be able to ?
 |12.|Formation|n.|**1)** the process of sth develops into a particular things or shape|
 |13.|Distortion|n.| **distort(v.)** |
 |14.|Compensate|v.|**1)** to replace or balance the effect of sth. `Because my left eye is weak, my right eye has to work harder to compensate.`|
+
+#### Unit-10 (Spirituality)
+
+||Words|P.S|Definitions and examples|
+|--|--|--|--|
+|1.|Spiritual|n.|**1)** relating to your spirit rather than your body and mind. |
+||Spirituality|n.|**2)** being interesting in spirit or religious and matters|
+|2.|Agnostic|adj.|**1)** somebody who believe human cannot know there is a god. `He was an agnostic rather than atheist.`|
+||agnosticism|n.|**2)** believe to noting|
+|3.|Animism|n.|**1)** belief that natural things such as tree, animals or so have soul. `Animisms believe that winds contain spirit.`|
+||Animist|n.||
+||Animistic|adj.|**2)** belief that plants, objects, and natural things have living soul. / **3)** belief there is a power that organizes and control the universe.|
+|4.|Atheist|n.|**1)** somebody who don't believe on existence of god.|
+||Atheistic|adj.|**2)** `She is an atheistic girl.`|
+||Atheism|n.|**3)** A belief that god does not exist. |
+|5.|Incline|v.|**1)** To think that a particular belief or opinion is correct|
+||Inclination|nn.|**2)** a feeling that makes you want to do somethings. `My natural inclination was to say no.`|
+||Be incline to|v.|**3)** to favor an opinion or course of action.|
+|6.|Contemplate|v.|**1)** to consider thoughtfully. / **2)** to think about something seriously for a period of time. `Jack went on vacation to contemplate his future.` |
+||Contemplation|n.|**3)** serious thinking about something.|
+||Contemplative|adj.|**4)** spending a lot of time thinking seriously. `I'm on my contemplative mood.`|
+|7.|Deify|v.|**1)** to worship somethings or somebody as a god. / `When people deify their president, he abuse his power easily.`|
+||Deity|n.|**2)** A god or goddess. `The deities of ancient Greece.`|
+||Deification|n.|**3)** glorification|
+|8.|Exalt|v.|**1)** to praise or honor. `He always exalt me for my hardworking.`|
+||Exaltation|n.|**2)** a very strong feeling of happiness. / **3)** put something or somebody in a high rank. `He deserve a fancy exaltation.`|
+|9.|Pious|adj.|**1)** Having a strong religious belief. `He was a pious man.`|
+||Piously|adv.|**2)** `Sometimes he act mad, piously.`|
+||Piety|n.|**3)** holiness, shows respect for your religion.|
+|10.|Heathen|n.|**1)** Unbeliever, **= pagan**|
+|11.|Sacrifice|v.|**1)** offered sth to your deity as a religious thanks giving. `Indian people sacrificed a cow every harvest time.` / **2)** giving up sth in order to have something more valuable. `In order to his new career, he has to sacrifice his private life.`|
+||Sacrificial|adj.|**3)** `Sacrificial ceremony` / `Sacrificial lamb`|
+|12.|Ecclesiastical|adj.|**1)** relating to the church. `Ecclesiastical history.`|
+||Ecclesiastic|n.|**2)** Churchman.|
+
+
+
+#### Unit-11 (Illness)
+
+
 
 ---
 ### Wordup Application

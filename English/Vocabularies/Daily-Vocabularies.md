@@ -1201,6 +1201,41 @@ Can or Be able to ?
 |11.|Shaft|n.|**1)** The long and thin part of sth. / **2)** The long hole or tunnel in ground. `The miners were trapped in the shaft.`|
 |12.|Fission|n.|**1)** When large atom nucleus split into the smaller part.|
 
+#### Unit-9 (Memory)
+||Words|P.S|Definitions and examples|
+|--|--|--|--|
+|1.|Acquisition|n.|**1)** The process by which you gain knowledge or learned a skill. `The acquisition of language.` / **2)** the act of getting land, power, money or etc.|
+||Acquire|v.|**3)** to obtain sth by buying it, to get or gain sth. `This college acquire high quality knowledge.` ***(Mostly followed by of)***|
+||Acquisitive|adj.|**4)** wanting to have and keep a lot of possessions.|
+|2.|Anomaly|n.|**1)** sth unusual, `Various anomalies in tax system.`|
+||Anomalous|adj.|**2)** abnormal, different from what you expected. `Iran faced am anomalous situation in feb,29,2026.`|
+||Anomalously|adv.|**3)** sth odd, `The situation changed anomalously.`|
+|3.|Conscious|adj.|**1)** with aware, noticing or realize sth. / **2)** awake and able to understand what is happening around you ! `she was conscious when an ambulance arrived.`|
+||Consciousness|n.|**3)** awareness, condition od being awake and able to understand. / **4)** related to your mind and body. `David lost his consciousness.`|
+|4.|Degrade|v.|**1)** to reduce in value or strength. **2)** to make a situation or condition of sth worse. `How can you degrade yourself by writing such trash ?` ***= demean*** / `Prisons should not degrade prisoners. `|
+||Degradation|n.|**3)** situation makes feel you angry or shame. `He deserve a life of poverty and degradations.`|
+||Degradable|adj.|**4)** able to degrade. `Wearing that could be degradable.`|
+|5.|Gap|n.|**1)** Opening. / **2)** space between 2 object or 2 part of an object. `A gap in the traffic.` / **3)** A period of time when noting is happening. `She has a long gap between her semester.` / `The widening gap between the rich and the poor.`|
+|6.|Dispute|v.|**1)** Argument, debate. `The facts of the case are still in dispute.` / **2)** To argue or disagreement with sth.|
+||Indisputable|adj.|**3)** Unquestionable, accepted due to it's definitely true. `The evidence was indisputable.`|
+||Indisputably|adv.|**4)** without doubt, unquestionable. `indisputably, she was guilty.`|
+|7.|Intervene|v.|**1)** to come between an argument, fight or difficult situation. `The police don't usually like to intervene in dispute between husbands and wives.`|
+||Intervenor|n.|**2)** somebody who come between sth. `She is known as an intervenor.`|
+||Intervention|n.| `Islamic republic defeat by American military intervention.`|
+|8.|Intuition|n.|**1)** instinct, the ability to understand sth by tour feeling not by your facts. `I want to trust my intuition.` / `Always trust and believe on your feminine intuition.`|
+||Intuitive|adj.|**2)** based on your feeling rather than knowledge or facts. ***= instinctive*** `She seemed to have an intuitive awareness of how I succeed.!`|
+||Intuitively|adv.|**3)** Natural sense about sth. |
+|9.|Recede|v.|**1)** to move back or away from. / **2)** Further and further away until it disappear. `The pain in his head gradually recedes.`|
+||Recession|n.|**2)** A difficult time when there is less trade, business,... / `Iran faced a huge economic recession in last 2 years.`|
+||Recessive|adj.|**3)** `Recessive function in mathematics.`|
+|10.|Retrieve|v.|**1)** to bring sth back. / **2)** to find sth and bring it back. `It took 4 hours to retrieve all the bodies from crash.` / `it took about 50 years to retrieve our country.`|
+||Retriever|n.|**2)** Kind of dog that trained to find and bring back sth.|
+||Retrievable|adj.|**3)** able to retrieve. `Your data is retrievable.`|
+||Retrieval|n.|**4)** the act of getting back sth. / **5)** the process of getting back information stored on a computer system. `Information retrieval`|
+|11.|Witness|n. / v.|**1)** observer, sb who sees a crim or an accident and able to describe.|
+|12.|Formation|n.|**1)** the process of sth develops into a particular things or shape|
+|13.|Distortion|n.| **distort(v.)** |
+|14.|Compensate|v.|**1)** to replace or balance the effect of sth. `Because my left eye is weak, my right eye has to work harder to compensate.`|
 
 ---
 ### Wordup Application

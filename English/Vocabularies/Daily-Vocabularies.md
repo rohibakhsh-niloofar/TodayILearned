@@ -55,6 +55,7 @@
       - [Unit 9 - Memory](#unit-9-memory)
       - [Unit 10 - Spirituality](#unit-10-spirituality)
       - [Unit 11 - Illness](#unit-11-illness)
+      - [Unit 12 - Surgery](#unit-12-surgery)
 
 
 3. [Wordup Application](#wordup-application)
@@ -1283,6 +1284,30 @@ Can or Be able to ?
 
 #### Unit-11 (Illness)
 
+||Words|P.S|Definition|
+|--|--|--|--|
+|1.|Illness|n.|**1)** condition of being ill. `She had all the normal childhood illness.` / `She recovered from serious illness.`|
+|2.|Aggravate|v.|**1)** To make sth worse. **2)** to anger or intensify. `Running will aggravate sore knee.`|
+||Aggravation|n.|**3)** Worsening|
+|3.|Decrepit|adj.|**1)** Old and bad condition, weak, aged. `The building were in decrepit state.`|
+||Decrepitude|n.|**2)** without any anger / **3)** full of disease|
+|4.|Disease|n.|**1)** illness or unhealthful condition.|
+|5.|Cure|v.|**1)** make you feel better. / **2)** A medical treatment.|
+|6.|Fatal|adj.|**1)** deadly / **2)** cause sth or sb dead. `Corona virus was potentially fatal disaster. `|
+||Fatality|n.|**3)** casualty / **4)** The number of of dead in an accident or violent attack. `The number of traffic fatalities increase this year.`|
+||Fataly|adv.|**5)** In a way caused dead. `Two officers were fataly injured in the explosion.`|
+|7.|Forensics|n.|**1)** relating to the scientific methods used for finding out about crime. `A career in forensic science.`|
+|8.|Persist|v.|**1)** to continue to exist or happen. `If your symptoms persist, you should go see a doctor.` / **2)** to hold to purpose, to continue to do sth. `Her persisted in his refusal to admit responsibility.`|
+||Persistence|n.|**3)** My persistence paid off after my TOEFL exam.|
+|9.|Prognosis|n.|**1)** doctor's opinion of how illness or disease will develop. / **2)** Forecast the illness or disease.|
+|10.|Terminal|adj.|**1)** Terminal disease cannot cured and caused dead in a state of get worse and worse and never getting better. `Terminal Cancer`|  
+||Terminate|v.|**2)** located to the end. `She decide to terminate her pregnancy.`|
+|11.|Vein|n.|**1)** The tubes that carry your blood to your heart or other organs. |
+|12.|Wound|v.|**1)** to injures someone with knife, gun , ... / **2)** to make someone feel unhappy or upset. `Many people wound by last protest` / `I was deeply wounded by his comments.`|
+
+
+
+#### Unit-12 (Surgery)
 
 
 ---

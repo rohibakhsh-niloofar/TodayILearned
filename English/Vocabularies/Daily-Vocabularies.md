@@ -56,6 +56,7 @@
       - [Unit 10 - Spirituality](#unit-10-spirituality)
       - [Unit 11 - Illness](#unit-11-illness)
       - [Unit 12 - Surgery](#unit-12-surgery)
+      - [Unit 13 - Ghosts](#unit-13-ghosts)
 
 
 3. [Wordup Application](#wordup-application)
@@ -1308,6 +1309,49 @@ Can or Be able to ?
 
 
 #### Unit-12 (Surgery)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Surgery|n.|**1)** Cuts and opens your body or organ. ***= operation*** --> Mostly used with (on , for)|
+|2.|Anesthesia|n.|**1)** state of being unable to feel pain. |
+||Glove anesthesia|Phrase|**2)** you can't feel your hands.|
+||Anesthetic|n.|**3)** a drug tha stops you feeling pain. `The operation will have be done under the anesthetic.` / `Eye surgery is often performed using a local anesthetic.`|
+|3.|Augment|v.|**1)** to increase the value. / **2)** to make bigger or better by adding to. `The university augmented new course for students.`|
+||Augmentation|n.|**2)** Adding or raise. `They solve the issue by a practical augmentation.`|
+|4.|Certify|v.|**1)** confirm / **2)** sth is correct or true after some kind of test. `They certify new candidate.` / `The driver was certified dead at the scene.` |
+||Certification|n.|**2)** official document that sb is qualified. |
+||Certificate|n.|**3)** `For applying this job you need to achieve your certificate.`|
+||Certifiable|adj.|**4)** Good enough to officially approved. `Grade A is certifiable.`|
+|5.|Complicate|v.|**1)** complex / **2)** Make difficult / **3)** to make an illness worse. `The surgery complicated by heart attack.`|
+||Complication|n.|**4)** A problem or situation that make sth more difficult. `The project faced many complication errors.`|
+|6.|Cure|v.|**1)** Make you feel better, treatment, restore to health `They say laugher can help cure illness.`|
+||Curable|adj.|**2)** The illness that can cure. `These days, many diseases are curable.`|
+|7.|Implant|v.|**1)** to put sth in someone's body by surgery. |
+||Implantation|n.|**2)** To insert or set sth.  `You can fix your teeth issue by implantation.`|
+||Implantable|adj.|**3)** Able to implant sth. `You have to looking for something implantable.` |
+|8.|Inject|v.|**1)** To insert the liquid into someone's vein or body. `She has to inject herself with Insulin.`|
+||Injection|n.|**2)** the act of putting a drug into someone's body or vein. `An injection of insulin.`|
+|9.|Obese|adj.|**1)** Very fat in a way is unhealthy. `She went to summer camp for obese teenagers.` |
+||Obesity|n.|**2)** `Overeating and discourages exercise can lead to obesity.` ***= Excessively overweight***|
+|10.|Procedure|n.|**1)** A way of doing sth or performed sth. `Teachers must follow the procedures during their class.`|
+||Proceed|v.|**2)** To continue to do sth that has already been planned. **= go on, go ahead**|
+||Procedural|adj.|**3)** Connected to the procedure|
+|11.|Scar|n.|**1)** A mark on skin left after a wound has healed. / **2)** the last sign of damaged, either mental or physical.|
+|12.|Risen||**1)** Increase|
+|13.|Infect|v.|**1)** To give someone disease. |
+||Infection|n.||
+|14.|Consume|v.|**1)** to use sth.|
+||Consumer|n.|**2)** someone who use sth. / **3)** customer.|
+
+
+
+#### Unit-13 (Ghosts)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|||||
+|||||
+|||||
 
 
 ---

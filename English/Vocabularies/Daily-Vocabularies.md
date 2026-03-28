@@ -58,6 +58,27 @@
       - [Unit 12 - Surgery](#unit-12-surgery)
       - [Unit 13 - Ghosts](#unit-13-ghosts)
 
+   - Season 4 (Society)
+      - [Unit 14 - Anthropology](#unit-14-anthropology)
+      - [Unit 15 - Social Inequality]
+      - [Unit 16 - Expertise]
+      - [Unit 17 - Military Operations]
+      - [Unit 18 - War and Conquest]
+      - [Unit 19 - History]
+
+   - Season 5 (Money)
+      - [Unit 20 - Financial System]
+      - [Unit 21 - Wealth and Social Class]
+      - [Unit 22 - Personal Property]
+      - [Unit 23 - Employment]
+      - [Unit 24 - International Trade]
+
+   - Season 6 (Government and Justice)
+
+
+   - Season 7 (Relationships)
+
+   -Season 8 (Culture)
 
 3. [Wordup Application](#wordup-application)
 
@@ -1349,10 +1370,53 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
-|||||
-|||||
-|||||
+|1.|Ghost|n.|**1)** spirit of dead person. `He looked as he had seen a ghost.`|
+|2.|Astrology|n.|**1)** study of the position of star, sun, or planets.|
+||Astrologer|n.|**2)** a person who use astrology to tell people about their life, future, etc.|
+||Astrological|adj.|**3)** relating to the astrology. `She followed astrological forecast in the newspaper.`|
+||Astrologically|adv.|`They might have struggle together astrologically.`|
+|3.|Horoscope|n.|**1)** The description of your character and things that will happen. `Sometimes she read her horoscope in daily papers.`|
+|4.|Divine|v.|**1)** Coming from god. / **2)** to discover or guess sth or predict sth.|
+||Divination|n.|**3)** The ability to say what will happen in the future.|
+|5.|Haunt|v.|**1)** Appear as a ghost in a same place or same person. `The ghost of Prince Hilda haunts this castle, appearing as a headless form.`  / **2)** To make someone worry or sad for a period of time. `The picture of children dying in a war have haunted me for a long time.`|
+|6.|Horror|n.|**1)** strong feeling of shocked and fear.|
+||Horrify|v.|**2)** to make someone feel very shocked and afraid. `She was horrified after saw that shadows.`|
+||Horrific|adj.|**3)** Extremely bad, in a frightening way. `His wound was horrific.`|
+|7.|Intermediary|n.|**1)** Go between the ways. `He acted as an intermediary between to parties.`|
+|8.|Invoke|v.|**1)** to call on for a support. / **2)** Appeal to. / **3)** beg to god for sth you need. `People invoke their god by holding out their hands.`|
+||Invocation|n.|**4)** to speech or prayer. |
+||Invocate|v.|**5)** Call upon or invoke.|
+|9.|Meditate|v.|**1)** to reflect or think seriously and deeply about something. `The Monks meditate foe three hours in complete silence.` |
+||Meditation|n.|**2)** Practicing of empty your mind of thought or feeling in order to relax.|
+||Meditative|adj.|**3)** Thoughtful, thinking deeply and seriously about sth. `She was in a meditative mood.`|
+|10.|Phantom|n.|**1)** Something that exists only in your imagination. `Phantom pregnancy`|
+|11.|Psychic|n.|**1)** someone who has a mysterious powers, abilities to receive message from dead people or to know what will be happen in the future.|
+||Psychic|adj.|**2)** relating to the human mind. `She is a spiritual healer with psychic powers.`|
+||Psychically|adv.||
+|12.|Self-perpetuation|adj.|**1)** Having a power to renew yourself.|
+|13.|Predispose|v.|**1)** incline / **2)** to make somebody more likely to behave or think.|
+|14.|Arrogance|n.|**1)** When someone behave in a rude way.|
+|15.|Condemn|v.|**1)** To say sth strongly that you do not approve of sth. / **2)** being guilty.|
+|16.|Merely|adv.|**1)** only / **2)** just|
+|17.|Idle|adj.|**1)** Not active / **2)** Unemployed|
+|18.|Prone|adj.||
 
+
+4. Season four (Society)
+
+
+#### Unit-14 (Anthropology)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 ---
 ### Wordup Application

@@ -1,4 +1,4 @@
-# My Vocabularies Chart
+# Daily Vocabularies 
 ---
 ## Books List:
 
@@ -60,7 +60,7 @@
 
    - Season 4 (Society)
       - [Unit 14 - Anthropology](#unit-14-anthropology)
-      - [Unit 15 - Social Inequality]
+      - [Unit 15 - Social Inequality](#unit-15-social-inequality)
       - [Unit 16 - Expertise]
       - [Unit 17 - Military Operations]
       - [Unit 18 - War and Conquest]
@@ -80,7 +80,81 @@
 
    -Season 8 (Culture)
 
-3. [Wordup Application](#wordup-application)
+
+3. [Academic Encounters - The Natural Worlds](#academic-encounters---the-natural-worlds)
+
+  - Unit 1 - Planet Earth
+    - Chapter 1 - The physical Earth
+
+       - [Reading 1 - Our Solar System]
+       - [Reading 2 - Earth's Four System]
+       - [Reading 3 - Rocks In Our Planet]
+       - [Writing Section]
+
+    - Chapter 2 - The Dynamic Earth
+
+       - [Reading 1 - Plate Tectonics]
+       - [Reading 2 - Volcanoes]
+       - [Reading 3 - Earthquake]
+       - [Writing Section]
+
+
+- Unit 2 - Water On Earth
+
+    - Chapter 3 - Earth's Water Supply
+
+       - [Reading 1 - The Water Cycle]
+       - [Reading 2 - Groundwater And Surface Water]
+       - [Reading 3 - Glaciers]
+       - [Writing Section]
+
+
+    - Chapter 4 - Earth's Oceans
+
+       - [Reading 1 - Oceans]
+       - [Reading 2 - Currents]
+       - [Reading 3 - Waves And Tsunamis]
+       - [Writing Section]
+
+
+- Unit 3 - The Air Around Us
+
+    - Chapter 5 - Earth's Atmosphere
+
+       - [Reading 1 - The Composition Of Atmosphere]
+       - [Reading 2 - The Structure Of Atmosphere]
+       - [Reading 3 - Clouds]
+       - [Writing Section]
+
+    - Chapter 6 - Weather And Climate
+
+       - [Reading 1 - Climate Around The World]
+       - [Reading 2 - Storms]
+       - [Reading 3 - Hurricanes]
+       - [Writing Section]
+
+
+- Unit 4 - Life On Earth
+
+    - Chapter 7 - Plants And Animals
+
+       - [Reading 1 - Living Things]
+       - [Reading 2 - Plant life]
+       - [Reading 3 - Animal Life]
+       - [Writing Section]
+
+
+    - Chapter 8 - Humans
+
+       - [Reading 1 - The Brain]
+       - [Reading 2 - The Skeletal And Muscular System]
+       - [Reading 3 - The Heart And Circulatory System]
+       - [Writing Section]
+
+       
+
+
+4. [Wordup Application](#wordup-application)
 
 
 
@@ -1409,6 +1483,52 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
+|1.|Anthropology|n.|**1)** The scientific study of people. `Social anthropology examine families relationships in details.`|
+|2.|Assimilate|v.|**1)** Absorb / **2)** Completely understand something. `It will take time to assimilate all these facts.` / **3)** become similar.|
+||Assimilation|n.|**4)** The process of understanding and using new idea. / **5)** The process of becoming an accepted part of a country or a group.|
+|3.|Cremation|n.|**1)** The act of burning the dead.|
+||Cremate|v.|**2)** to burn the body of dead person at a funeral ceremony.|
+|4.|Domestic|adj.|**1)** to make something suitable for being at home. **≠   Wild** / **2) Domestic person =** someone who enjoy spending a lot of time at home and good at cooking, cleaning, etc.|
+||Domesticate|v.|**3)** To make an animal able to work for people or live with them as a pet. **= Tame** / **Mostly used for animal, plants,etc.**|
+|5.|Folklore|n.|**1)** Traditional stories or myths that transmitted orally.|
+||Folkloric|adj.|**2)** A person who study about folklore.|
+|6.|Archaeologist|n.|**1)** A person who study about ancient societies.|
+|7.|Fossilize|v.|**1)** To become preserve in clay, stone or ash after dead. `The dinosaur eggs had fossilized over thousands of years !. `|
+||Fossil|n.|**2)** `Fossils of early reptiles.`|
+||Fossilization|n.|**3)** The process of Fossilize something.|
+|8.|Rigid|adj.|**1)**Very strict and difficult to change ≠ Flexible|
+|9.|Relic|n.|**1)** something left from long-ago culture. / **2)** Time period or person. |
+|10.|Rite|n.|**1)** A ceremony to achieve certain purpose. `Funeral rite` / `Many cultures have fertility rite.`|
+|11.|Ritual|n.|**1)** Ceremony or rite. / **2)** Something you do regularly in a same way. `The daily ritual mealtime.` |
+||Ritually|adv.|**3)** As a part of normal ceremony. / **4)** Based on habit. `He ritually kissed his wife before bed.`|
+|12.|Saga|n.|**1)** Long story or tale about events that happened over many years. `The whole saga began back in May.`|
+|13.|Vestige|n.|**1)** A visible trace. / **2)** Small part of something that remains when most of it no longer exists. = Trace.|
+||Vestigial|adj.|**2)** Remaining as a sign that something existed. `His vestigial sense of pride.`|
+|14.|Subsist|v.|**1)** Be, live, survive or to stay alive.|
+|15.|Camouflage|v.|**1)** A way of hiding something, like soldiers|
+|||n.|**2)** A type of green and brown clothes or paint that soldiers wear to make themselves difficult to see. |
+
+
+
+#### Unit-15 (Social Inequality)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
@@ -1419,6 +1539,12 @@ Can or Be able to ?
 |||||
 
 ---
+
+### Academic Encounters - The Natural Worlds
+
+
+---
+
 ### Wordup Application
 
 ||Words|P.S|Definitions|

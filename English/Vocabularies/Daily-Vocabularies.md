@@ -78,13 +78,13 @@
 
    - Season 7 (Relationships)
 
-   -Season 8 (Culture)
+   - Season 8 (Culture)
 
 
 3. [Academic Encounters - The Natural Worlds](#academic-encounters---the-natural-worlds)
 
-  - Unit 1 - Planet Earth
-    - Chapter 1 - The physical Earth
+  - [Unit 1 - Planet Earth](#unit-1-planet-earth)
+    - [Chapter 1 - The physical Earth](#chapter-1-the-physical-earth)
 
        - [Reading 1 - Our Solar System]
        - [Reading 2 - Earth's Four System]
@@ -1541,6 +1541,42 @@ Can or Be able to ?
 ---
 
 ### Academic Encounters - The Natural Worlds
+
+#### Unit-1 (Planet-Earth)
+
+##### Chapter-1 (The Physical Earth)
+
+##### Reading-1 (Our Solar System)
+- Preparing To Read :
+
+||Question|My Answer|
+|--|--|--|
+|1.|**What are some things that you see in the sky during the day?**|From the beginning of the day, when the sun rise, you can see the light of universe. Sometimes during the down moon is also visible. In addition based on climate condition we can see different type of clouds.|
+|2.|**What are some things that you can see in the sky at night?**|When the sun sets, the light disappear gradually. However it shows up as a moon light. In clear planets you can see the stars or further planets. In you will be lucky, you can see meteorites or shooting star at night.|
+|3.|**Would you like to be a scientist who studies the sky? Why or Why not?**| :) |
+
+- Previewing art:
+
+||Question|My Answer|
+|--|--|--|
+|1(A)|**How many planet are there in the solar system? Do you know any of their names?**|There are nine planet in our solar system. Mercury, Venus, Earth, Mars, etc are the part of our solar system.|
+|2(A)|**In what ways are the planets different from one another?**|They are different in order to some features such as their size, shapes and colors. |
+|3(A)|**Can you find our planet, Earth?**| :) |
+|4(A)|**What is at the center of our solar system? Is it a planet?**|At the center of our solar system the sun occupied. and it's not a planet, just a big and hot star.|
+|1(B)|**Who is the person in the photograph?** |Clyde Tombaugh|
+|2(B)|**What is the name of the instrument with him?** |A Telescope|
+|3(B)|**What do these instruments do? Did you ever look trough one?**|Telescope is a scientific instrument that used for see the cosmos objects that occupied further from us. such as planets,stars, etc.     / I remember once upon of time, I saw cosmos objects by telescope when i was only thirteen years old. It was pretty hard to set or found the right angle by telescope. However it was a sweat and scientific memory for me on that age.  |
+
+- Reading 1 
+
+||Words|Definitions|
+|--|--|--|
+|1.|Orbit|**1)** Travel in a circle around a large object.|
+|2.|Terrestrial Planet|A planet with a solid and rocky surface. **= Earthlike**|
+|3.|Solar system|The sun and the planets that moves around it.|
+|4.|Gas Giant Planet|A planet made of gases, not solid rock.|
+|5.|Astronomers|Scientists who study the stars and planets.|
+|6.|Reclassified|to decide again what group something belongs to.|
 
 
 ---

@@ -86,8 +86,8 @@
   - [Unit 1 - Planet Earth](#unit-1-planet-earth)
     - [Chapter 1 - The physical Earth](#chapter-1-the-physical-earth)
 
-       - [Reading 1 - Our Solar System]
-       - [Reading 2 - Earth's Four System]
+       - [Reading 1 - Our Solar System](#reading-1-our-solar-system)
+       - [Reading 2 - Earth's Four System](#reading-2-earths-four-system)
        - [Reading 3 - Rocks In Our Planet]
        - [Writing Section]
 
@@ -1577,6 +1577,76 @@ Can or Be able to ?
 |4.|Gas Giant Planet|A planet made of gases, not solid rock.|
 |5.|Astronomers|Scientists who study the stars and planets.|
 |6.|Reclassified|to decide again what group something belongs to.|
+|7.|Solid|**1)** Hard or Firm / **2)** Having no holes or space inside |
+|8.|Surface|**1)** The top layer of an area of water or land. / **2)** Ine side of an object.|
+|9.|Differs|to be different from something in some way. / **2)** Disagree about sth|
+|10.|Constellation| A group of stars that forms a particular pattern and has a name.|
+|11.|Extra Solar|Planets outside of our solar system.|
+|12.|Supernova|Extremely bright explosion of stars.|
+|13.|Galaxy|A group of stars, gas, and dust hold together by gravity.|
+|14.|Canyon|A deep valley with very steep sides of rock that usually has a river running through it.|
+
+
+- After You Read 
+
+```
+Many English words, or parts of words, come from other languages. Words that come from Latin and Greek are especially common in science. Look at these examples:
+
+ terr- means "Earth" or "Lands". ➡️ terrestrial
+ sol- means "sun". ➡️ Solar system
+ astro- means "star". ➡️ Astrology
+
+```
+##### Reading-2 (Earth's Four System)
+
+- Preparing tTo Read : 
+
+||Questions|My Answer|
+|--|--|--|
+|1.|**How many systems does Earth have?** | Our Earth has four systems.|
+|2.|**What are their names?** | Lithosphere, Hydrosphere, Atmosphere, Biosphere|
+
+|Name of the system |Key feature|
+|--|--|
+|Lithosphere|Earth's crust and the top layer of the mantle|
+|Hydrosphere|All the water on the Earth.|
+|Atmosphere|The air surrounding the Earth.|
+|Biosphere|All living things on Earth.|
+
+- Reading 2 (Earth's Four System)
+
+||Words|Definitions|
+|--|--|--|
+|1.|The point of view|Someone's own opinion|
+|2.|Complex|Complicate|
+|3.|Made up|Create or make |
+|4.|Interconnected|sth joined together or in touch with each other. |
+|5.|Crust|Earth's hard outer layer|
+|6.|Mantle|sth such as snow or darkness or etc that cover the surface or area.|
+|7.|Glaciers|A large mass of ice which moves slowly down a mountain valley.|
+|8.|Freshwater|the potable water. = drinkable|
+|9.|Groundwater|water under the ground|
+|10.|Primary|most important or main|
+|11.|Ultraviolet radiation| A form of energy that comes from the sun in rays, or lines that we cannot see.|
+|12.|Diverse|various|
+|13.|Contribute|to help to make sth happen|
+|14.|Coastal|In the sea or on the land near the coast.|
+|15.|Flood|A large amount of water covering an area that is usually dry.|
+|16.|Natural Habitat|The place where an animal or a plant usually lives.|
+|17.|Arctic|Relating to the most northern part of the world.|
+
+- After You Read :
+
+```
+- Greek and Latin 
+
+    1. hemi- means "Half"
+    2. sphere- means "Ball" ➡️ Spherical = circle.
+    3. litho means "Rock or stone" ➡️ Lithology = study about rocks.
+    4. hydro- means "Water" ➡️ hydropower = to create energy using water.
+    5. atmo- means "Gas, Vapor" ➡️ Atmospherology = Study of gasses.
+    6. bio- means "Life" ➡️ Biologist = work with living things.
+```
 
 
 ---

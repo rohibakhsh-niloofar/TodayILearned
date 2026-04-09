@@ -61,7 +61,7 @@
    - Season 4 (Society)
       - [Unit 14 - Anthropology](#unit-14-anthropology)
       - [Unit 15 - Social Inequality](#unit-15-social-inequality)
-      - [Unit 16 - Expertise]
+      - [Unit 16 - Expertise](#unit-16-expertise)
       - [Unit 17 - Military Operations]
       - [Unit 18 - War and Conquest]
       - [Unit 19 - History]
@@ -1514,14 +1514,34 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|1.|Inequality|n.|**1)** An unfair situation, which group of people in society have money,power, or etc. ≠ Equality|
+|2.|Amend|v.|**1)** To correct or make small changes for better. `The Linux compony amended their last Fedora's version.`|
+||Amendment|n.|**2)** Improvement or addition that is ade to law or documents or process of doing sth. `The Linux compony release an amendment version for Fedora 43 Workstation.`|
+|3.|Bias|n.|**1)** To unfairly influence attitude,choice, or decision. `Students were evaluated without bias.`|
+||Biased|adj.|**2)** Learning unfairly in one direction. / **3)** Unfairly preferring one thing or one person or group over another. `He has a heavily biased attitude.`|
+|4.|Burden|n.|**1)** somethings that someone or somethings carried. `The donkey walked with a heavy burden.`|
+||Burden|v.|**2)** To have a lot of problem because of particular things. `The compony burdened with dept.`|
+|5.|Counter|v.|**1)** To act in opposition to sth. / **2)** To offer in response.|
+||Counter|n.|**4)** The place where you pay or are served in a shop, bank, restaurant etc. `We wondered if the girl behind the counter recognized him.  ` |
+||Under the counter|n.|**3)** you do sth secretly or illegally. `It's risky, but you can get alcohol under the counter.` |
+|6.|De facto|adj.|**1)** In fact or in reality. / **2)** Really existing although not illegally state to exist. {Latin = What is done.}|
+|7.|Criminate|v.|**1)** Crime / **2)** Prove being guilty / |
+||Discriminate|v.|**3)** To treat a person or group differently from another in an unfair way. / **4)** To recognize a difference between things. **= Differentiate**|
+|8.|Notion|n.|**1)** A belief or idea. `The tradition of notion of marriage was awful.` / `She had no notion what he meant.` / `They reject the notion of group guilt.`  / **2)** A fanciful impulse  / **= Idea, Concept, Belief, Opinion, Sentiment, etc.**|
+|9.|Oppress|v.|**1)** To keep dow sth by force. / **2)** to treat a group of people unfairly or cruelly, and prevent them from having the same rights than other people in society have. `The terroristic regime oppressed Iranian people for more than 50 years and we can't forgive their oppression.`  / **3)** The wight heavily on sth.|
+||Oppression|n.|**4)** `Iranians can't forget the oppression of their leader.`|
+|10.|Intimidate|v.|**1)** To make someone feel worries and not confided.|
+||Intimidation|n.|**2)** `They oppressed us with deadly intimidation.`|
+|11.|Paradigm|n.|**1)** A pattern or model or example of sth.  `They have a basic paradigm of family tree. `  **{Mostly followed by of or for}**|
+|12.|Prejudice|v.|**1)** To have the bad effect on the future success or situation. `A criminal record can prejudice your chance of getting job.`|
+||Prejudiced|adj.|**2)** To jude someone unfairly|
+|13.|Prevail|v.|**1)** If a belief, custom, situation etc prevails, it exists among a group of people at a certain time.|
+
+
+#### Unit-16 (Expertise)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
 |||||
 |||||
 |||||

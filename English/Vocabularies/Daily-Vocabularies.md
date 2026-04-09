@@ -88,7 +88,7 @@
 
        - [Reading 1 - Our Solar System](#reading-1-our-solar-system)
        - [Reading 2 - Earth's Four System](#reading-2-earths-four-system)
-       - [Reading 3 - Rocks In Our Planet]
+       - [Reading 3 - Rocks In Our Planet](#reading-3-rocks-on-our-planet)
        - [Writing Section]
 
     - Chapter 2 - The Dynamic Earth
@@ -1619,7 +1619,7 @@ Many English words, or parts of words, come from other languages. Words that com
 ```
 ##### Reading-2 (Earth's Four System)
 
-- Preparing tTo Read : 
+- Preparing To Read : 
 
 ||Questions|My Answer|
 |--|--|--|
@@ -1668,6 +1668,56 @@ Many English words, or parts of words, come from other languages. Words that com
     6. bio- means "Life" ➡️ Biologist = work with living things.
 ```
 
+#### Reading-3 (Rocks On Our Planet)
+
+- Preparing To Read :
+
+|Questions|Answer|
+|--|--|
+|**Do you know the names or locations of any of the places in the photographs?**| To be honest, I have no idea about picture (a) and (c) but about picture (b) they are obviously the pyramids which settle down in Egypt.|
+|**What do they all have in common?**|All of them made of by stones.|
+|**What are some other famous places make of rock?** |According to our ancestors history, Rocks and stones were the primary material to made different stuff such as farming equipments, temples or even their buildings. Hereupon, we can see several famous places which made of rocks in this generation. For example the chines wall, pattern in caves, or etc.|
+|**What do people use rocks for? Try to think of at least three uses.**|Based on what we see these days, Rocks are so useful in our life. However I think the main usage of rocks contain constructions use, but we can see trace of rocks in other parts such as engineering, farming, or etc. In a simple example we use rocks for exterior of our building to make it more attractive by ceramics. Or Some kind of rocks founded by petrologists and use for jewelry industries such as turquoise, Carnelian, quartz, or etc. In another example, we produces a massive agricultural equipments by rocks. As a consequence we can say that we need rocks in each part of our modern life. |
+|**Did builders use any rocks to construct your school or your home? Are there anythings inside your school or your home that are made of rocks?**|Of course yes. We can see the trace of rocks everywhere include interior and exterior design of all type of buildings.|
+
+- Reading 3 (Rocks On Our Planet)
+
+||Words|Definitions|
+|--|--|--|
+|1.|Inorganic|Non consisting of anything that is living. `Inorganic matter`|
+|2.|Magma|very hot melted, or liquid, rock that is deep inside Earth.|
+|3.|Igneous|igneous rocks are formed from lava. / Igneous means "Relating to fire." = Granite, Basalt, Pumice|
+|4.|Sedimentary|Made of solid substance that settle at the bottom of sea, river, lake, etc. = Limestone, sandstone, shale.|
+|4.|Metamorphic|Metamorphic rocks is formed by the continuous effects of pressure, heat, or water . = Marble|
+|5.|Fiery|Very red or orange and looking like fire.|
+|6.|Lava|Hot, melted rock that flows from a volcano.|
+|7.|Diverse|Various|
+
+- After You Read
+
+|Questions|Answers|
+|--|--|
+|**What are all rocks made of ?**|Minerals or inorganic matter.|
+|**Which one of the following is a type of rocks ?**|Sedimentary|
+|**Where do igneous rocks form ?** |Both on and under Earth's surface.|
+|**Where do many sedimentary rocks form ?**|In a river, sea or lake.|
+|**What forces create metamorphic rocks ?**|Heat and Pressure|
+|**Which process causes rocks to change form continuously over time ?** |The rock cycle|
+
+- Chapter 1 Academic Vocabularies Review :
+
+||Questions|
+|--|--|
+|1.| A **professional** marine biologist has studied at university and has received the degree in marin science.|
+|2.|One of the unique **features** of the planet Mars is its radish color.|
+|3.|The **cycle** of changing liquid water into ice requires a minimum temperature of 0 Celsius.|
+|4.|Earth is home to many **diverse** languages and cultures.|
+|5.|If an **area** is too cold, people may not want to live there.|
+|6.|Humans often have a **complex** relationship with nature; they need it to survive but they don't always take care of it.|
+|7.|The **design** of the house is the overall plan of the house.|
+|8.|Similar to humans, stars are born, grow, exist, and then die; however while most humans lives less than 100 years, the life **period** of a star is billions of years.|
+|9.|The life span of a butterfly **ranges** from a few days to 12 months, depending on the species.|
+|10.|Two **primary** uses of rocks are for building materials and decorative items.|
 
 ---
 

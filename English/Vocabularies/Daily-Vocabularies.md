@@ -62,23 +62,39 @@
       - [Unit 14 - Anthropology](#unit-14-anthropology)
       - [Unit 15 - Social Inequality](#unit-15-social-inequality)
       - [Unit 16 - Expertise](#unit-16-expertise)
-      - [Unit 17 - Military Operations]
-      - [Unit 18 - War and Conquest]
-      - [Unit 19 - History]
+      - [Unit 17 - Military Operations](#unit-17-military-operations)
+      - [Unit 18 - War and Conquest](#unit-18-war-and-conquest)
+      - [Unit 19 - History](#unit-19-history)
 
    - Season 5 (Money)
-      - [Unit 20 - Financial System]
+      - [Unit 20 - Financial System](#unit-20-financial-system)
       - [Unit 21 - Wealth and Social Class]
       - [Unit 22 - Personal Property]
       - [Unit 23 - Employment]
       - [Unit 24 - International Trade]
 
    - Season 6 (Government and Justice)
-
+      - [Unit 25 - Politics]
+      - [Unit 26 - A Reasonable Doubt]
+      - [Unit 27 - The Police]
+      - [Unit 28 - Investigating Crime]
+      - [Unit 29 - Government Corruption]
+      - [Unit 30 - Crimes at Sea]
+      - [Unit 31 - The War on Drugs] 
 
    - Season 7 (Relationships)
+      - [Unit 32 - Family Relationship]
+      - [Unit 33 - Friendship]
+      - [Unit 34 - Passion]
+      - [Unit 35 - Negative Emotions]
+      - [Unit 36 - Parenting]
 
    - Season 8 (Culture)
+      - [Unit 37 - Social Rebels]
+      - [Unit 38 - Painting and Sculpture]
+      - [Unit 39 - The Written Word]
+      - [Unit 40 - Entertainment]
+      - [Unit 41 - Risky Fashions]
 
 
 3. [Academic Encounters - The Natural Worlds](#academic-encounters---the-natural-worlds)
@@ -1542,6 +1558,33 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
+|1.|Expertise|n.|**1)** Special skill or knowledge in a particular subject, that you learn by experience or training. **= Expert**|
+|2.|Curriculum|n.|**1)** The subject that are thought by school, college or etc. `Language are an essential part of the school curriculum.`|
+||Curricular|adj.|**2)** relating to curriculum school. `Curricular school`|
+|3.|Distinct|asj.|**1)** Clearly different or belonging to different type! `There are four distinct type.` **2)** Clearly be seen, heard, smelled, or ... `The out line of ship become more distinct.`|
+||Distinction|n.|**3)** clear difference or separated between two similar things. / **4)** being excellent or important. `Eliot's distinction as a poet.`|
+||Distinctly|adv.|**5)** clearly **≠ Indistinctly** `She speak clearly and distinctly.`|
+|4.|Erudite|adj.|**1)** Showing a lot of knowledge based on careful study. / **2)** highly educated. `She was considered erudite by her professors.`|
+|5.|Fortify|v.|**1)** Make someone feel physically or mentally stronger. `We fortified ourselves with a breakfast of bacon and eggs.`|
+||Fortification|n.|**2)** The process of making sth stronger or more effective. |
+|6.|Implicit|adj.|**1)** Suggested or understood without being stated directly.|
+||Implicitly|adv.|**2)** Without being stated.|
+|7.|Parochial|adj.|**1)** Only interested in things that effect your local area. / **2)** Restricted in outlook. `He moved from his rural community to get away from his parochial thinking.` |
+|8.|Rigor|n.|**1)** Strictness  `The wrestlers followed their diet with rigor.`|
+|9.|Rigorous|adj.|**2)** Careful, thoughtful and exact / **3)** Very severe or strict.|
+|10.|Toughen|v.|**1)** Become harder or make somethings harder.|
+|11.|Roster|n.|**1)** A list, especially of names! `Sorry but your name is not on our rosters.`|
+|11.|Secular|adj.|**1)** Not related to religion. / **2)** Not controlled by a church or other religious. `I need secular education in secular country. 😂`|
+|12.|Suspend|v.|**1)** To stop for period. `Negotiation between Iran and U.S have now been suspended.` / **2)** To hang sth and allow to free movement. `A large light was suspending from the ceiling.`|
+||Suspension|n.|**3)** Postponement / **4)** Officially stopped for a period of time.|
+|13.|Minority|n.|**1)** small group of people.|
+
+
+#### Unit-17 (Military Operations)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.||||
 |||||
 |||||
 |||||
@@ -1557,6 +1600,16 @@ Can or Be able to ?
 |||||
 |||||
 |||||
+|||||
+
+
+#### Unit-18 (War and Conquest)
+
+#### Unit-19 (History)
+
+- Season 5 (Money)
+
+#### Unit-20 (Financial System)
 
 ---
 
@@ -1763,3 +1816,5 @@ Many English words, or parts of words, come from other languages. Words that com
 |||n.|Someone who publicly supports someone or sth. = **Proponent** **`Mostly followed by (of)`**|
 |4.|False teeth|n.|**1)** Denture(More modern), Artificial teeth.|
 |5.|Bionic|n.|**1)** half human and half machine. `The bionic man.`|
+|6.|Aristocrat|n.| **1)** Someone who belongs to the highest social class. |
+|7.|Nomad|n.|**1)** Member of tribe that travels from place to place.|

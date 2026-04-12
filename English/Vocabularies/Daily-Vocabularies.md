@@ -1584,6 +1584,31 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
+|1.|Operation|n.|**1)** The work or activities done by business or organization.|
+|2.|Allegiance|n.|**1)** Loyalty to a leader, country or believe. `My allegiance to my country is commonly followed by my respect!` / `Iranian people don't have any allegiance to their leader.`|
+|3.|Artillery|n.|**1)** Large guns, either on wheel or fixed in one place.|
+||Artillerist|n.|**2)** A solider in a artillery or a gunner.|
+|4.|Battle|v.|**1)** Fight between opposing armies. `It was a huge battle between U.S and Iran.` / `They battled very diversely. `|
+||Battle|n.|**2)** Competition or argument. `A long-running legal battle.`|
+|5.|Cease|v.|**1)** To stop doing sth or stop happening. `Cease fire`|
+||Cessation|n.|**2)** A pause or stop. `Everywhere were cessation after war.`|
+||Ceaseless|adj.|**3)** Happening for a long time without stopping. `I studied ceaseless through the night.`|
+|6.|Hierarchy|n.|**1)** A system of level that place people high or low according to their importance. `There were a rigid social hierarchy.`|
+||Hierarchal|adj.|**2)** Divided into level of importance.|
+|7.|In the trench|*ph.*|**1)** In the middle of hardest fighting or work. `Our generals don't know what things are like out in the trench.`|
+|8.|Mobilize|v.|**1)** To put members of a group into motion. `They need to mobilize their army for the battle.`|
+||Mobilization|n.||
+|9.|Rank|v.|**1)**The position or level someone hold in an organization. `This university accept only rank students.` / `You can rank it by their score !`|
+|10.|Ratio|n.|**1)** A relationship between 2 amounts. **= Proportion** / `The ratio between profit, and income was inaccurate.` |
+|11.|Strategic|adj.|**1)** useful or right for a particular purpose. / **2)** related to long-term plans for achieving a goal. `I'm looking for a strategic way to immigrate.`|
+||Strategy|n.|**3)** A plan series of actions for achieving something.|
+|12.|Smallpox|n.|**1)** Serious disease that cause spot which leave marks on your skin. `In 1742 he suffered a fatal attack of smallpox.`|
+
+
+#### Unit-18 (War and Conquest)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
 |1.||||
 |||||
 |||||
@@ -1599,11 +1624,6 @@ Can or Be able to ?
 |||||
 |||||
 |||||
-|||||
-|||||
-
-
-#### Unit-18 (War and Conquest)
 
 #### Unit-19 (History)
 

@@ -105,11 +105,11 @@
        - [Reading 1 - Our Solar System](#reading-1-our-solar-system)
        - [Reading 2 - Earth's Four System](#reading-2-earths-four-system)
        - [Reading 3 - Rocks In Our Planet](#reading-3-rocks-on-our-planet)
-       - [Writing Section]
+       - [Writing Section](#writing-section-chapter-one)
 
-    - Chapter 2 - The Dynamic Earth
+    - [Chapter 2 - The Dynamic Earth](#chapter-2---the-dynamic-earth)
 
-       - [Reading 1 - Plate Tectonics]
+       - [Reading 1 - Plate Tectonics](#reading---1-plate-tectonics)
        - [Reading 2 - Volcanoes]
        - [Reading 3 - Earthquake]
        - [Writing Section]
@@ -1791,6 +1791,48 @@ Many English words, or parts of words, come from other languages. Words that com
 |8.|Similar to humans, stars are born, grow, exist, and then die; however while most humans lives less than 100 years, the life **period** of a star is billions of years.|
 |9.|The life span of a butterfly **ranges** from a few days to 12 months, depending on the species.|
 |10.|Two **primary** uses of rocks are for building materials and decorative items.|
+
+
+#### Writing Section-chapter one
+
+```
+   The Milk way solar system have eight planet which Earth is the third one. Our home is Earth and humans live on it. Earth has four system that they interconnected with each other. These systems called, Lithosphere, Atmosphere, Hydrosphere, and Biosphere.
+   
+   Lithosphere is exactly the surface of our planet or where we can walk on it. Lithosphere has to main layer called, crust and mantle. In addition we have three different kind of rocks on the Earth. Igneous, sedimentary and metamorphic.
+
+   Hydrosphere is all the water set on the Earth. About 97 percentage of our planet is saltwater that comes from the oceans and around 3 percentage of it is freshwater from glacier, rivers, or etc.
+
+   Atmosphere is include our surrounding gases. Two important gases which humans use is Oxygen and Nitrogen. Atmosphere create air for us to breath and it protect Earth from ultraviolet radiation.
+
+   Biosphere is made up by all living things on the Earth including humans, animals or planets.   
+```
+
+#### Chapter 2 - The Dynamic Earth
+
+- Preparing To Read :
+
+||Sentences|Definitions|
+|--|--|--|
+|1.|Earth has seven **continent**. Asia is the largest continent, and australia is the smallest.|**(e)** / Very large area of land, often made up of many counters. **= Continent**|
+|2.|The Pacific ocean surrounds(goes all around) the **islands** of Hawaii.|**(d)** / Areas of land completely surrounded by water. **= Islands**|
+|3.|The Pyrenees are mountains that forms a **boundary** between France, and Spain.|**(a)** / A line that divides two places or area. **= Boundary**|
+|4.|The Mid-Atlantic **Ridge** in Atlantic Ocean is the longest mountain range on Earth.|**(c)** / A chain of mountains. **= Ridge**|
+|5.|The ocean floor is not flat. It has many tall ridges and deep **trenches**. For example, in the Pacific Ocean, the Mariana Trench is almost 11,000 meters below the surface of the ocean.|**(f)** / Long, narrow, deep holes **= Trench**|
+|6.|Earth's crust is not solid. It is made up of many different **plates**.|**(b)** / Large pieces of EArth's crust. **= Plat** |
+
+
+#### Reading - 1 (Plate Tectonics)
+
+- Reading 1 (Plate Tectonics) :
+
+||Words|Definitions|
+|--|--|--|
+|1.|||
+|2.|||
+|3.|||
+|4.|||
+|5.|||
+|6.|||
 
 ---
 

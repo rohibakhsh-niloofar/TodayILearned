@@ -1609,6 +1609,38 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
+|1.|Conquest|n.|**1)** The act of getting control of a country by fighting. `The England conquest by Norman.` / **2)** Lands that won in the war. `French conquest in Asia.` |
+||Conquer|v.|**1)** To defeat an enemy. `She was determined to conquer her fear of flying.` / **2)** To become very successful in a place. `In last few years, the compony has succeeded in conquering the European market.` / **3)** To succeed in climbing to the top of the mountain when no one has climbed it before. `An attempt to conquer the peaks of Everest.`|
+||Conqueror|n.|**4)** A person who defeat someones or somethings. / **5)** A person who succeed in different ways.|
+|2.|Annex|v.|**1)** To take a control of country or area next to your own, especially by using force. **= Seize, Catch up** / **2)** To make somethings part of another unit (usually lands).|
+||Annexation|n.|**3)** Attach somethings.|
+|3.|Apex|n.|**1)** The highest point./ **[You can use it for highest point of someone's ability.]** `She was at the apex of her career.`|
+|4.|Collapse|v.|**1)** To fall down because of weakness. `Uncle Tes's chair collapse under his weight.` / `She collapsed by heart attack while she was dancing.`|
+||Collapse|n.|**2)** A sudden decrease in a value of something. `The collapse of the stock market.` / **3)** A sudden failure in the way something works, so that it cannot continue. `His business was in a danger of collapse.`|
+||Collapsible|adv.|**4)** Something collapsible can be folded so that it uses less space. `A collapsible chair.`|
+|5.|Devise|v.|**1)** To plan or invent a new way of doing something. `They devised a new way to across the river.`|
+||Device|n.|**2)** A machine or tool that does a special job. **= Gadget** / **3)** A special way of doing something that makes it easier to do. / **4)** A plan or trick, especially for a dishonest purpose. `Their proposal was only a device to confuse the opposition.`|
+|6.|Invasive|adj.|**1)** Aggressively entering into someone else territory, body or etc. / **2)** Treating involves cutting into someone's body. `Invasive surgery.`|
+||Invade|v.|**3)** To enter a country, town or area by using military force. `Every summer,the town is invaded by tourists.`|
+||Invasion|n.|**4)** When the army of one country enters another country by force, in order to take a control of it. `The invasion of Iran.`|
+||Invader|n.|**5)** A person who enter somewhere by force.|
+|7.|Prevail|v.|**1)** be victorious or win. `He considered lying, but then common sense prevailed.` |
+||Prevailing|n.|**2)** Common, current, ordinary, customary / **3)** Strongest or most common. `Thee prevailing attitude among Iranians is that their leader is terrorist.`|
+|8.|Resist|v.|**1)** To refuse to give in to a strong force or desire. `She always resisted to buy artifactual food.`|
+||Resistance|n.|**2)** A refusal to accept a new idea or changes. `People's resistance to change.` / **3)** Fighting against someone who is attack you. `Islamic republic has a strong resistance. :( ` / **4)** THe ability of a substance to stop the flow of an electric current through it. |
+||Resistant|adj.|**5)** `Ayatollah Khamenei had resistant to die.`|
+|9.|Severe|adj.|**1)** Very bad or serious. `His injuries was quite severe.`|
+||Severity|n.|**2)** `We have to test its severity for our safety.`|
+||Severely|adv.|**3)** Extremely, in a strict way.|
+|10.|Violate|v.|**1)** Disobey or do something against an official agreement or law or etc. `Regimes that violate human rights.`|
+||Violation|n.|**2)** An action that break a law. `Human right violations.`|
+|11.|Violent|adj.|**1)** Hot-heated / **2)** Extremely angry |
+||Violence|n.|**3)** Behavior that is intended to hurt other people. `I am completely disagree with violence movie or cartoon for kids.`|
+
+#### Unit-19 (History)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
 |1.||||
 |||||
 |||||
@@ -1624,8 +1656,9 @@ Can or Be able to ?
 |||||
 |||||
 |||||
+|||||
 
-#### Unit-19 (History)
+
 
 - Season 5 (Money)
 

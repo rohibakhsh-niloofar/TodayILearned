@@ -1641,6 +1641,35 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
+|1.|Chronology|n.|**1)** The order in which events happen in the past. `The book includes a chronology of his life and works.`|
+||Chronological|adj.|**2)** arranged according to when things happened or were made. `We arranged the documents in chronological order.`|
+||Chronologically|adv.|**3)** In order according to time. `The painting are displayed chronologically.` **(Mostly used with arranged, organizes, list, or some other words for orders.)**|
+|2.|Coincide|v.|**1)** Happen or exist at the same time. **(Mostly followed by with)** `When our vacations coincided, we often holidayed together.`|
+||Coincidence|n.|**2)** When two things happen together at the same time, in a same place, or to the same people in a way that seems surprising or unusual. `Such a coincidence! Happy to see you sweetie.`|
+||Coincidental|adj.|**3)** Happening completely by chance without being planned.|
+|3.|Consequent|adj.|**1)** happening as a result of a particular events.|
+||Consequence|n.|**2)** A result or effect of something. **{Consequence usually implies something negative or serious about the result.}**|
+||Consequently|adv.|**3)** As a result **= Therefore**|
+|4.|Core|n.|**1)** The most important or central part of something. / **2)** An area or object at the center.|
+|5.|Deny|v.|**1)** To say that something is not true. **{Deny is often followed by -ing form of verb or (That) clause.}** / `He obviously denied laughing to me.`|
+||Denial|n.|**2)** `She completely know that people denial the rumors.`|
+||Deniably|adv.||
+|6.|Diminish|v.|**1)** To become or make sth to become smaller or less. `Don't let him diminish your achievements.`|
+|7.|Longitude|n.|**1)** imaginary lines running from north to south along the Earth's surface. |
+||Longitudinal|adj.|**2)** During.  `A longitudinal study of unemployed workers.`|
+|8.|Milieu|n.|**1)** Environment or surroundings. / **2)** The things and the people that surround you and influence the way you live and think. `I never felt happy in Iran milieu.`|
+|9.|Orwellian|adj.|**1)** Frightening and overcontrolled by government. |
+|10.|Reconcile|v.|**1)** To have a good relationship again with someone after you have fight or argue with them. `At least, they reconciled.`|
+||Reconciliation|n.|**1)** Coming back together peacefully. `Her ex-husband had always hope for reconciliation.`|
+||Reconciliatory|adj.|**1)** `Their meeting wasn't reconciliatory.`|
+
+
+- Season 5 (Money)
+
+#### Unit-20 (Financial System)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
 |1.||||
 |||||
 |||||
@@ -1657,12 +1686,8 @@ Can or Be able to ?
 |||||
 |||||
 |||||
+|||||
 
-
-
-- Season 5 (Money)
-
-#### Unit-20 (Financial System)
 
 ---
 

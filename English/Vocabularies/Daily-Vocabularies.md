@@ -68,10 +68,10 @@
 
    - Season 5 (Money)
       - [Unit 20 - Financial System](#unit-20-financial-system)
-      - [Unit 21 - Wealth and Social Class]
-      - [Unit 22 - Personal Property]
-      - [Unit 23 - Employment]
-      - [Unit 24 - International Trade]
+      - [Unit 21 - Wealth and Social Class](#unit-21-wealth-and-social-class)
+      - [Unit 22 - Personal Property](#unit-22-personal-property)
+      - [Unit 23 - Employment](#unit-23-employment)
+      - [Unit 24 - International Trade](#unit-24-international-trade)
 
    - Season 6 (Government and Justice)
       - [Unit 25 - Politics]
@@ -1658,7 +1658,7 @@ Can or Be able to ?
 |7.|Longitude|n.|**1)** imaginary lines running from north to south along the Earth's surface. |
 ||Longitudinal|adj.|**2)** During.  `A longitudinal study of unemployed workers.`|
 |8.|Milieu|n.|**1)** Environment or surroundings. / **2)** The things and the people that surround you and influence the way you live and think. `I never felt happy in Iran milieu.`|
-|9.|Orwellian|adj.|**1)** Frightening and overcontrolled by government. |
+|9.|Orwellian|adj.|**1)** Frightening and over controlled by government. |
 |10.|Reconcile|v.|**1)** To have a good relationship again with someone after you have fight or argue with them. `At least, they reconciled.`|
 ||Reconciliation|n.|**1)** Coming back together peacefully. `Her ex-husband had always hope for reconciliation.`|
 ||Reconciliatory|adj.|**1)** `Their meeting wasn't reconciliatory.`|
@@ -1667,6 +1667,52 @@ Can or Be able to ?
 - Season 5 (Money)
 
 #### Unit-20 (Financial System)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.|Allocate|v.|**1)** To use something for a particular purpose. `You should allocate the same amount of time in each question` ***(Mostly used for things that can be spent, such as money, time, energy or etc.)***|
+||Allocation|n.|**2)** The decision to allocate somethings. `12 hours a week seemed a generous allocation of your time.`|
+||Allocatable|adj.|**3)** Able to allocate something.|
+|2.|Commodity|n.|**1)** A product that is bought and sold. `Commodity prices fell sharply.` |
+|3.|Decline|v.|**1)** To decrease in power or amount of something. `Car sales decline by a quarter.` / **2)** To reject or refuse sth politely. `She declined a his invitation to dinner.` |
+|4.|Equity|n.|**1)** The value of one's share in an investment. / ***(Equity in this meaning is always singular and followed by in)***|
+|5.|Inflate|v.|**1)** To increase in price or make something increase in price. `Hotels often inflate prices at the particular time of year.`|
+||Inflation|n.|**2)** A continuing increase in price. `Inflation right now is over 80% in Iran.`|
+||Inflationary|adj.|**3)** Causing increase price. `We faced inflationary pressure in the economy.` ***≠ Deflate = Reflate***|
+|6.|Net|v.|**1)** To earn a particular amount of money as a profit after tax has been paid. `She was netting around $64000 a year`|
+|||n.|**2)** Internet / **3)** Something used to catch things such as fish, birds or etc.|
+|||adj.|**4)** `The net profit was up 16.3% last month.`|
+|7.|Per capita|adv.|**1)** Use to describe the average amount of something in a particular place. / **2)** Calculated according to the number of people who live there. `The countries per capita is important.`|
+|8.|Regulate|v.|**1)** To control sth according to a set of rules. `Strict rules regulating the use of chemicals in food.`|
+||Regulation|n.|**2)** An official rule or order. `Regulation governing the safety of toys.`|
+||Regulatory|adj.|**3)** Official power to control on activities.|
+||Regulator|n.|**4)** An instrument of controlling temperature, speed or ... `The heat regulator`|
+|9.|Subsidy|n.|**1)** Money given by government or other organization to support an activity. |
+||Subsidize|v.|**2)** To funding, pays part of sth costs. `Farming is heavily subsidized by the government.`|
+|10.|Tangible|adj.|**1)** Obviously real because it can be seen, touched, or otherwise observed. `He has no tangible evidence for his crime.`|
+
+
+#### Unit-21 (Wealth and Social class)
+
+||Words|p.s|Definitions|
+|--|--|--|--|
+|1.||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+
+#### Unit-22 (Personal Property)
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
@@ -1688,6 +1734,103 @@ Can or Be able to ?
 |||||
 |||||
 
+
+#### Unit-23 (Employment)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+#### Unit-24 (International Trade)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+
+#### Unit-25 (Politics)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+#### Unit-26 (A Reasonable Doubt)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+#### Unit-27 (The Police)
+
+||Words|P.S|Definitions|
+|--|--|--|--|
+|1.||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 ---
 

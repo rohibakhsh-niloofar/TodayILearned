@@ -1696,19 +1696,19 @@ Can or Be able to ?
 
 ||Words|p.s|Definitions|
 |--|--|--|--|
-|1.||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|1.|Wealth|n.|**1)** A large amount of money or property that a person or country owns. `Our country's wealth come from its oil.`|
+|2.|A wealth of sth|ph.|**1)** A lot of something useful or good. `There is a wealth of information available about pregnancy and birth.`|
+|3.|Social class|ph.|**1)** Your position in society, being rich, poor or etc.|
+|4.|Accumulate|v.|**1)** To gradually get more and more money, possession, knowledge or etc over a period of time. / **2)** Collect `The accumulate of data.`|
+||Accumulation|n.|**3)** Collection, build up, gathering `They increase social classes by accumulation.`|
+||Accumulative|adj.|**4)** Additive, Cumulative.|
+|5.|Affluence|n.|**1)** Wealth and life style goes with it. `She grew up amid affluence.`|
+||Affluent|adj.|**2)** Wealthy, loaded(Slang) **3)** Having a plenty of money, nice house or etc. `Affluent family.` |
+|6.|Elite|n.|**1)** A group of people who have a lot of power and influence due to they have money, knowledge oe special skill.|
+||Elite|n.|**1)** a group contain the best, most skill or etc. `Elite university.`|
+|7.|Impoverish|v.|**1)** To make a person or group poor. / **2)** To make something worse in quality. `Last fertilization impoverished the soil.`|
+||Impoverishment|n.|**3)** Poverty, poorness. `The last war made their country impoverishment.`|
+|8.||||
 |||||
 
 

@@ -910,6 +910,11 @@ Can or Be able to ?
 |14.|||✅|
 |15.|||✅|
 
+||Words|Definitions|
+|--|--|--|
+|1.|Nearly|**1)** Almost, Approximately|
+|2.|Until|**1)** before|
+|3.|Not until|**1)** Sth doesn't happen before a certain point in time or before something else has happen.|
 
 #### Tactics for testing unit 5 - 8
 
@@ -932,6 +937,20 @@ Can or Be able to ?
 |15.||✅||
 
 
+||Words|Definitions|
+|--|--|--|
+|1.|Blow|Air out from your mouth. `Blow the tea.`|
+|2.|Brick|A hard block of backs clay used for buildings wall, ...|
+|3.|Shovel|To lift and move earth, stone with shovel|
+|4.|As a (n.)|Tool with round blade and long handle.|
+|5.|Examine|To look at something careful.|
+|6.|Fold|Bend a pieces of paper. |
+|7.|Instrument|Object used for producing music.|
+|8.|Lift|To move sth or sb upward in to the air.|
+|9.|Grade|Level, class, degree|
+|10.|Quit|Abandon, to leave a job, school or etc without finishing it.|
+|11.|Oceanography|Study of ocean|
+
 #### Tactics for listening unit 9 - 12
 
 ||A|B|C|
@@ -951,6 +970,19 @@ Can or Be able to ?
 |13.|✅|||
 |14.|||✅|
 |15.||✅||
+
+||Word|Definitions|
+|--|--|--|
+|1.|Attend|Be present to go to an event such as class or meeting.|
+|2.|Move in| To start living in a new home. ***≠ Move out***|
+|3.|Glad|Happy about something, delighted, Joyful.|
+|4.|Haven't been out for ages|I haven't gone out for long time.|
+|5.|Special|Not Ordinary|
+|6.|Growing up|Develop from being child to being an adult.|
+|7.|Own|Personal, something belongs to you!|
+|8.|Official price|Main price|
+|9.|Spending no more than (sth)|Fewer than something|
+
 
 #### Tactics for listening unit 13 - 16
 
@@ -972,6 +1004,14 @@ Can or Be able to ?
 |14.|✅|||
 |15.|||✅|
 
+||Words|Definitions|
+|--|--|--|
+|1.|Silly|Foolish, Idiot, Being stupid|
+|2.|Close Down|To stop operating permanently to stop all working as in factory or etc.|
+|3.|Discount|off, to reduce price of sth. `This belt has 25% discount.`|
+|4.|Vendor|Somebody who sells things, especially on the street. `Vending Machine.`|
+
+
 #### Tactics for listening unit 17 - 20
 
 ||A|B|C|
@@ -991,6 +1031,21 @@ Can or Be able to ?
 |13.|||✅|
 |14.||✅||
 |15.|✅|||
+
+||Words|Definitions|
+|--|--|--|
+|1.|Book|Reserve|
+|2.|Veterinarian|Pet doctor|
+|3.|Rugged|Strong feature|
+|4.|Revolution|Completely new and different.|
+|5.|Thermal|Keep you warm in a cold weather|
+|6.|Lining|Pieces of material that covers the inside of something else.|
+|7.|Sub Zero|Fewer than zero|
+|8.|Cushion|Pillow|
+|9.|Sole|Alone, Only|
+|10.|Practical|Functional|
+|11.|Arctic|Polar, Most northern part of world.|
+
 
 #### Tactics for listening unit 21 - 24
 
@@ -1708,8 +1763,20 @@ Can or Be able to ?
 ||Elite|n.|**1)** a group contain the best, most skill or etc. `Elite university.`|
 |7.|Impoverish|v.|**1)** To make a person or group poor. / **2)** To make something worse in quality. `Last fertilization impoverished the soil.`|
 ||Impoverishment|n.|**3)** Poverty, poorness. `The last war made their country impoverishment.`|
-|8.||||
-|||||
+|8.|Luxury|n.|**1)** Very comfort, great and pleasure. |
+||Luxuriate|v.|**2)** To relax and enjoy something. |
+||Luxurious|adj.|**3)** Very expensive, beautiful and comfortable. `A luxurious 30-room vila.`|
+||Luxuriously|adv.|**4)** `The cabin was luxuriously furnished.`|
+|9.|Nobility|n.|**1)** Belongs to the highest social class and have special title. / **2)** The quality of being noble.|
+||Noble|n.|**3)** A member of the highest social class.|
+|||adj.|**4)** Morally good or generous in a way that is admired. `It's very noble of you to spend all your weekends helping us.` / **5)** Belonging to the nobility. `Noble family, blood, birth.`|
+|10.|Prestige|n.|**1)** Honor and respect for being better than the average.|
+||Prestigious|adj.|**2)** Admire as one of the best and most important. `A highly prestigious university.`|
+|11.|Privilege|n.|**1)** A special advantage that is given only to one person or group of people. `The privilege of good education.` / **2)** The situation in which people who are rich or of a social class have many more advantage than other people.|
+|12.|Prosper|v.|**1)** Grow and develop in a successful way. `Business across the state are prospering.`|
+||Prosperity|v.|**2)** Success, affluence, when people have money and everything that is needed for a good life.|
+||Prosperous|adj.|**3)** Rich and successful. / **4)** Well-off|
+|13.|Working class|n.|**1)** People with low paying jobs. They don't have enough money or power.|
 
 
 #### Unit-22 (Personal Property)

@@ -1783,23 +1783,31 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
-|1.||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|1.|Property|n.|**1)** The thing or things that someone owns. `The hotel is not responsible for any loss or damage to guests' personal properties. `  /  **2)** A building, a pieces of land of both together. `Properties taxes in Dubai increase.`|
+|2.|Acquire|v.|**1)** To obtain sth by buying it. / **2)** To get or gain sth valuable. `She tries hard to acquire the world cup.`|
+||Acquisition|n.|**3)** The act of getting sth valuable. `The acquisition of language.`|
+||Acquisitive|adj.|**4)** Wanting to have and keep a lot of possessions. |
+||Acquirement|n.|**5)** Te action of acquiring or achieving sth. ***= Achievement***|
+|3.|Assess|v.|**1)** To calculate the value or cost of sth. `The value of her business assessed at $1.3 millions. `  / **2)** To make a judgement about a person or a situation. ***= Judge***|
+||Assessment|n.|**3)** A calculation about a cost or value of sth. `A tax assessment`|
+||Assessor|n.|**4)** Someone who calculate the value of something. `She is a tax assessor.`|
+|4.|Asset|n.|**1)** A position that has a positive value. `Their home was the most valuable asset.`|
+|5.|Hazardous|adj|**1)** Dangerous, especially to the people's health or safety. `You can see the hazardous sign in front of the lake.`|
+||Hazard|n.|**2)** something that is dangerous or cause accidents or problem.|
+||Hazardously|adv.|**3)** In accident way|
+|6.|Jointly|adv.|**1)** Together with one or more other parties. `We were there jointly.`|
+||Joint|n.|**2)** A place where two things or parts of an object are joined together. `You have to joint the cylinder and keys.`|
+|7.|Lease|v.|**1)** To rent something for a long time. (for several months or years). `They prefer to lease new home instead of buying one.`|
+|||n.|**2)** A legal agreement which allows you to use something for a long time. /  **3)** In return for a rent. `The landlord refuse to renew their lease.` |
+||Lessor|n.|**4)** Someone who allow someone else to use their house, building or lands for the period of time for payment.|
+|8.|Liability|n.|**1)** Legal responsible for something especially for damages or injuries. / **2)** The amount of debt that must be paid. ***≠ Asset***  `You have to sign a document for your liability.` / `He was just a liability of our team, because never finished anything on time.` |
+||Liable|adj.|**3)** Be responsible for something. `The car is liable to overheat on long trip.`|
+|9.|Proprietor|n.|**1)** Owner, usually by business or building. `She is a proprietor of a small hotel in downtown.`|
+||Proprietary|adj.|**2)** Ownership, relating to who owns sth. `They have proprietary rights to the compony's data.`|
+|10.|Safeguards|v.|**1)** To protect something harm or damage. `The industry has a duty to safeguard the consumers.`|
+|||n.|**2)** A group of people who protect something or somebody. `I called safeguard after she shouted on me.` ***{Continuous protection over a long time.}***|
+|11.|Sole|adj.|**1)** Only, alone, not shared with anyone else. `I shall hold you solely responsible for anything that goes wrong.`|
+
 
 
 #### Unit-23 (Employment)

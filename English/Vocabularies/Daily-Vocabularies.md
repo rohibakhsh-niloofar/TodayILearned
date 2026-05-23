@@ -1814,23 +1814,34 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
-|1.||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|1.|Employ|v.|**1)** To pay someone to work for you. `The factory employs over 2000 people.` ***= Give a job*** |
+|||n.|**2)** Working for somebody. ***= Hire*** |
+||Employment|n.|**3)** To taking on or hire someone. / **4)** The act of paying someone to work for you. `Terms and condition of employment.`|
+|2.|Compensate|v.|**1)** To replace or balance the effect of something bad. `Because my right eye is weak, my left eye has to work harder to compensate.` / **2)** To pay someone money because they have suffered, injuries, loss or damage. `The government promise to compensate victim of the war.`|
+||Compensation|n.|**3)** Paid to somebody due to they have suffered, injured, loss or damaged. `They receive a huge compensation from the government.` / **4)** Something that make a bad situation better. `Sara's aggressiveness is just a compensation for her feeling to insecurity.`|
+||Compensatory|adj.|**5)** Intended to reduce the bad effects of something.|
+|3.|Dynamic|adj.|**1)** Full of energy or new idea.|
+||Dynamism|n.|**2)** Energy and determination to succeed.|
+||Dynamically|adv.||
+|4.|Enterprise|n.|**1)** A compony, organization or business. `Commercial enterprise such as band and food manufactures.` / **2)** The ability to think of new activities or ideas and make them work. `We're looking for young people with enterprise and creativity.`|
+||Enterprising|adj.|**3)** Creative in thinking of ways to make money. `Some enterprising students are designing software.`|
+|5.|Exploit|v.|**1)** To take advantage of something. / **2)** To treat inconsiderately in order to profit. `The foreign mining compony exploited our copper resources and then simply left.` |
+||Exploitation|n.|**3)** `The controlled exploitation of resources.`|
+||Exploitative|adj.|**4)** Taking as much as possible for someone or something and giving very little in return.|
+|6.|Incentive|n.|**1)** Something that encourages you to work harder. / **2)** Start a new activity. ***Motivation*** `The war giving me an incentive to work on my english.` ***Mostly followed by (to)*** |
+|7.|Industrious|adj.|**1)** Willing to work hard. `Here was founded by industrious farmers.` |
+||Industriousness|n.|**2)** Relating to the hard work.|
+||Industriously|adv.|**3)** Do something with hard work. ***Only used for human***|
+|8.|Marginal|adj.|**1)** Too small to be important. / **2)** Not very significant. |
+||Marginally|adv.|**3)** Not enough to make an important difference.|
+|9.|Merit|n.|**1)** Value or success based on someone's work, not on luck. / **2)** An advantage or good feature of something. `The film has the merit of being short.` ***Uncountable***|
+|||v.|**3)** To be good, important or serious enough for praise or attention. ***Deserve*** |
+||Meritorious|adj.|**4)** Very good and deserving a praise.|
+|10.|Promote|v.|**1)** To move someone to a higher position in a compony. / **2)** To help something to develop or increase. `Fertilizer promote leaf growth.`|
+||Promotion|n.|**3)** To rise or elevation. `Your promotion to senior developer is now official.`|
+|11.|Resign|v.|**1)** To quit one's job. / **2)** To officially announce that you have decided to leave your job or organization.|
+||Resignation|n.|**2)** `First she has to sign for resignation.`|
+
 
 #### Unit-24 (International Trade)
 

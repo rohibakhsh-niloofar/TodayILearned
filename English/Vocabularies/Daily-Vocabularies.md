@@ -1847,19 +1847,31 @@ Can or Be able to ?
 
 ||Words|P.S|Definitions|
 |--|--|--|--|
-|1.||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|1.|Trade|n.|**1)** The activity of buying, selling, or exchanging things. `International trade agreement.`|
+|||v.|**2)** To buy and sells goods / **3)** To buy and sell something in stock exchange. `Over a million shares were traded today.`|
+||Trading|n.|**4)** `Shares dropped 10% in heavy trading`|
+|2.|Distill|v.|**1)** To remove a liquid from a mixture of liquid by boiling. `Asian people distill an alcoholic drink called Arak from a paste of palm berries.` / **2)** To get the main ideas of facts from a much longer amount of information. `The lecture was so confusing but I distilled the main idea.`|
+||Distillate|n.|**3)** A substance that is formed by distilling a liquid. |
+||Distillation|n.|**4)** The act of distill something.|
+||Distillery|n.|**5)** The factory where strong alcoholic drink such as whiskey is produced.|
+||Distiller|n.|**6)** `Change your distiller.`|
+|3.|Entrepreneur|n.|**1)** Someone who starts a new business or arrange business deal in order to make money. |
+||Entrepreneurship|n.|**2)** The activity of making money by starting or running a business.|
+||Entrepreneurial|adj.|**3)** `We need more entrepreneurial woman.`|
+|4.|Extract|v.|**1)** To remove an object from somewhere especially with difficulty. / **2)** To take out something. `Oils extract from plans.`|
+||Extraction|n.|**3)** `The extraction of salt from seawater.`|
+|5.|Haggle|v.|**1)** Bargain, To argue when you are trying to agree about the price of something. ***{Mostly followed by (over) or (about) }*** / `They haggled over the silver plate for more than an hour.`|
+|6.|Intrepid|adj.|**1)** Willing to do dangerous things or go to the dangerous place. `He was an intrepid explorer.` / **2)** Brave = fearless|
+|7.|Merchant|n.|**1)** A person who makes living by selling things. / **2)** Tradesman / `Spice merchant, wine merchant`|
+|8.|Proportion|n.|**1)** Relationship between 2 things in size, amount, important,etc. `What's the proportion of boys and girls in your classes? ` / **2)** A part of a number of an amount of something.|
+||Proportionate|adj.|**2)** `Please buy a proportionate flour for cake.`|
+||Proportionately|adv.|**3)** `The food aid was distributed proportionately per families.`|
+|9.|Prototype|n.|**1)** The first made of a machine or system. `I am an embedded prototype developer.`|
+||Prototypical|adj.|**2)** very typical of a group or type. `Prototypical behavior`|
+|10.|Reward|n.|**1)** something one get for having done well. `The school has a system of rewards and punishment for students.` / ***{Mostly followed by (of) or (for)}***|
+||Unrewarded|n.|**2)** Not achieving what you want to achieve.|
+|11.|Shuttle|v.|**1)** To travel frequently between 2 place. / **2)** Commute|
+||Shuttle|n.|**3)** A transportation such as plane, train, bus, or etc that makes regular short journeys between 2 places.|
 
 
 #### Unit-25 (Politics)
@@ -1867,6 +1879,10 @@ Can or Be able to ?
 ||Words|P.S|Definitions|
 |--|--|--|--|
 |1.||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||

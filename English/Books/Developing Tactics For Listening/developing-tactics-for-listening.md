@@ -70,9 +70,44 @@
 |30.|Court|Where we play tennis|
 |31.|Crowded|full of people|
 
+```
+To be + Supposed to +verb
+```
+
+
 ---
 
 ### Unit 2 (City Transportation)
+
+|No.|Word|Definitions|
+|--|--|--|
+|1.|In hurry|In rush|
+|2.|Replace|Take place|
+|3.|Subway car|Subway carriage|
+|4.|Fare|Price / Ticket's price / cost for transportation|
+|5.|Hop in|get into somewhere|
+|6.|Where to? |Where do you go? |
+|7.|Dining car|A carriage on a train where meals are served.|
+|8.|Shuttle flight|Make regular short journey between 2 places|
+|9.|Plenty of time|many times|
+|10.|Ferry|Ferry boat|
+|11.|Neither did I|me nighter|
+|12.|Cab|Taxi|
+|13.|There are (number) of us|To show quantity of something. `There are three of us.`|
+|14.|As soon as you can|As soon as possible|
+|15.|Catch a train|Arrived at time|
+|16.|Dangerously|full of risk|
+|17.|Poor condition|Not in a good condition|
+|18.|Air conditioned|Have a air condition|
+|19.|Uncomfortable|Comfortable|
+|20.|Convenient|Easy to use|
+
+```
+ "I find football interesting." = "I think football is interesting."
+
+ Sub + Find + Noun + Adjective
+ It use to show someone's opinion about something. 
+```
 
 ---
 

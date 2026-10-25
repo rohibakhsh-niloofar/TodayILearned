@@ -113,6 +113,56 @@ To be + Supposed to +verb
 
 ### Unit 3 (Neighbor)
 
+|No.|Word|Definitions and Examples|
+|--|--|--|
+|1.|Neighbor|someone who live near you or next to you|
+|2.|Upstairs|≠ downstairs|
+|3.|Considerate|Thoughtful|
+|4.|Fit in|Settle in|
+|5.|Cook out|A party when a meal cooked out and eaten out, too|
+|6.|Wave|shake your hands|
+|7.|Incredible|Amazing, wonderful|
+|8.|Law firm|A compony with legal services and employs many lowers |
+|9.|Top off|To complete something successfully|
+|10.|Spotless|Clean|
+|11.|Give (Sb) hand|help someone|
+|12.|accidentally|By accident|
+|13.|Offer|suggest|
+|14.|Normally|usually|
+|15.|Was off|Wasn't there|
+|16.|Appreciate|Thankful|
+|17.|Hard at my age|hard for me|
+|18.|By any chance||
+|19.|Driveway|Area or road between your house street|
+|20.|What are neighbors for?|to show kindness|
+|21.|Hallway|Passage|
+|22.|Anniversary|annual|
+|23.|We were wondering if|polite way to ask something|
+|24.|Leave me|give me|
+|25.|Punch bowl||
+|26.|Tools set||
+|27.|Lending something|≠ Borrowing something|
+|28.|Complain about something|nagging about something|
+|29.|Eldery|very old|
+|30.|Retired|Do not work anymore|
+|31.|Portch||
+|32.|Bother me|On my nerve|
+|33.|Break in||
+|34.|Watchout|careful for something|
+|35.|Count on someone||
+|36.|Decline|Say no, Reject|
+|37.|Figure|Think, Assume|
+|38.|Arrogant|Selfish, behaving in a rude way|
+|39.|Can't stand|hate something|
+|40.|Mind (his) business|inquisitive, nosey, nosey parker|
+|41.|Burglar|House breaker|
+|42.|robbing|steal|
+|43.|daycare|place for care about something|
+|44.|Argument|struggle|
+|45.|offered to|suggest to|
+|46.|Manner|behavior|
+|47.|Refill|A container filled with a particular substance, such as ink or petrol|
+
 ---
 
 ### Unit 4 (Celebrations)
